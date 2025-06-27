@@ -1,0 +1,14 @@
+{
+  "batchId": "64fd428c",
+  "timestamp": "2025-06-12T01:29:23.735Z",
+  "chunkCount": 3,
+  "files": [
+    "chunker/sender.py",
+    "config.yaml"
+  ],
+  "languages": [
+    "python",
+    "unknown"
+  ],
+  "totalLines": 149
+}

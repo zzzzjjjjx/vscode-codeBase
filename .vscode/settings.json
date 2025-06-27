@@ -1,0 +1,56 @@
+{
+  "codeChunker.ignorePatterns": [
+    "node_modules/**",
+    ".git/**",
+    ".vscode/**",
+    "dist/**",
+    "build/**",
+    "out/**",
+    "coverage/**",
+    "*.log",
+    "*.tmp",
+    "*.cache",
+    "*.map",
+    ".DS_Store",
+    "Thumbs.db",
+    ".env",
+    ".env.local",
+    ".env.development.local",
+    ".env.test.local",
+    ".env.production.local",
+    "*.min.js",
+    "*.min.css",
+    "*.bundle.js",
+    "*.bundle.css"
+  ],
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/*/**": true,
+    "**/.hg/store/**": true,
+    "**/dist/**": true,
+    "**/build/**": true,
+    "**/out/**": true,
+    "**/.vector-cache/**": true
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/*.code-search": true,
+    "**/dist/**": true,
+    "**/build/**": true,
+    "**/out/**": true,
+    "**/.vector-cache/**": true,
+    "**/*.map": true
+  },
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "**/node_modules": false,
+    "**/.vector-cache": true
+  }
+}

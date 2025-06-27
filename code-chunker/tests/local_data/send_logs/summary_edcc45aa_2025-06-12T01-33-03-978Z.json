@@ -1,0 +1,12 @@
+{
+  "batchId": "edcc45aa",
+  "timestamp": "2025-06-12T01:33:03.980Z",
+  "chunkCount": 3,
+  "files": [
+    "chunker/parsers/filename_parser.py"
+  ],
+  "languages": [
+    "python"
+  ],
+  "totalLines": 62
+}

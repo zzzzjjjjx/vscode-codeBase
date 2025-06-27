@@ -1,0 +1,14 @@
+{
+  "batchId": "0133d2eb",
+  "timestamp": "2025-06-12T01:30:32.130Z",
+  "chunkCount": 3,
+  "files": [
+    "requirements.txt",
+    "test_monitor_file.py"
+  ],
+  "languages": [
+    "unknown",
+    "python"
+  ],
+  "totalLines": 13
+}

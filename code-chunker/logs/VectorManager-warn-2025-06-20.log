@@ -1,0 +1,3 @@
+2025-06-20T03:18:43.657Z [WARN] [VectorManager] Cache config not found, skipping CacheManager
+2025-06-20T03:18:45.682Z [WARN] [VectorManager] Cache config not found, skipping CacheManager
+2025-06-20T03:25:57.444Z [WARN] [VectorManager] VectorDB not available for test_user_test_device_11cb8a2dd6898e98, skipping upload (development mode)

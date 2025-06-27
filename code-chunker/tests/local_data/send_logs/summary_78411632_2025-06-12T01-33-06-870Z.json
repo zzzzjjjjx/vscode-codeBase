@@ -1,0 +1,13 @@
+{
+  "batchId": "78411632",
+  "timestamp": "2025-06-12T01:33:06.873Z",
+  "chunkCount": 3,
+  "files": [
+    "chunker/parser_selector.py",
+    "chunker/sender.py"
+  ],
+  "languages": [
+    "python"
+  ],
+  "totalLines": 136
+}

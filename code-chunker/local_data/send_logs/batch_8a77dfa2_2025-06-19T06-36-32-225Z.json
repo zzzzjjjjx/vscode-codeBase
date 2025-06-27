@@ -1,0 +1,16 @@
+{
+  "batchInfo": {
+    "batchId": "8a77dfa2",
+    "timestamp": "2025-06-19T06:36:32.225Z",
+    "chunkCount": 0,
+    "userId": "test_user",
+    "deviceId": "test_device"
+  },
+  "embeddingOptions": {
+    "uniqueId": "test_user-test_device-1750314992225",
+    "parserVersion": "1.0.0",
+    "processingMode": "sync"
+  },
+  "codeChunks": [],
+  "originalChunkData": []
+}

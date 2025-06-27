@@ -1,0 +1,421 @@
+2025-06-12T01:18:28.932Z [INFO] [VectorManager] Initializing VectorManager...
+2025-06-12T01:18:28.941Z [INFO] [VectorManager] Production mode: full VectorManager initialization
+2025-06-12T01:18:28.947Z [INFO] [VectorManager] PathEncryption initialized
+2025-06-12T01:18:31.483Z [INFO] [VectorManager] CacheManager initialized
+2025-06-12T01:18:32.679Z [INFO] [VectorManager] VectorDB initialized
+2025-06-12T01:18:32.679Z [INFO] [VectorManager] EmbeddingClient initialized
+2025-06-12T01:18:32.680Z [INFO] [VectorManager] VectorManager initialized successfully
+2025-06-12T01:18:36.559Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 2 vectors
+2025-06-12T01:18:36.908Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 2 vectors uploaded
+2025-06-12T01:18:36.909Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 7 vectors
+2025-06-12T01:18:37.157Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 7 vectors uploaded
+2025-06-12T01:18:37.544Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 2 vectors
+2025-06-12T01:18:37.735Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 2 vectors uploaded
+2025-06-12T01:18:38.118Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:18:38.296Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:18:38.969Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:18:39.145Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:18:39.743Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:18:39.938Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:18:40.137Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:18:40.337Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:18:40.599Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:18:40.799Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:18:41.473Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:18:41.611Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:18:42.073Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:18:42.518Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:18:42.932Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:18:43.164Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:18:43.432Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:18:43.622Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:18:43.959Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:18:44.134Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:18:44.244Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:18:44.444Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:18:45.234Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 5 vectors
+2025-06-12T01:18:45.413Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 5 vectors uploaded
+2025-06-12T01:18:45.762Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 4 vectors
+2025-06-12T01:18:45.942Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 4 vectors uploaded
+2025-06-12T01:18:46.360Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:18:46.566Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:18:47.248Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors
+2025-06-12T01:18:47.437Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors uploaded
+2025-06-12T01:18:47.845Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:18:48.012Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:18:48.110Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors
+2025-06-12T01:18:48.308Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors uploaded
+2025-06-12T01:18:48.552Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:18:48.714Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:18:49.107Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:18:49.292Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:18:49.354Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 4 vectors
+2025-06-12T01:18:49.560Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 4 vectors uploaded
+2025-06-12T01:18:49.822Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 2 vectors
+2025-06-12T01:18:50.002Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 2 vectors uploaded
+2025-06-12T01:18:50.065Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors
+2025-06-12T01:18:50.214Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors uploaded
+2025-06-12T01:18:50.787Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:18:50.799Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 88 vectors
+2025-06-12T01:18:51.264Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:18:52.046Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 88 vectors uploaded
+2025-06-12T01:18:52.047Z [INFO] [VectorManager] Flush completed: uploaded 88 vectors
+2025-06-12T01:18:52.047Z [INFO] [VectorManager] Flush completed: uploaded 0 vectors
+2025-06-12T01:18:59.591Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 2 vectors
+2025-06-12T01:19:00.026Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 2 vectors uploaded
+2025-06-12T01:19:00.241Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:19:00.440Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:19:01.247Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:19:01.409Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:19:01.484Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:19:01.661Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:19:01.875Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:19:02.063Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:19:02.568Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:19:02.739Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:19:03.897Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:19:04.787Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:19:05.487Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors
+2025-06-12T01:19:08.063Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors uploaded
+2025-06-12T01:19:08.138Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 12 vectors
+2025-06-12T01:19:09.177Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 12 vectors uploaded
+2025-06-12T01:19:09.602Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 9 vectors
+2025-06-12T01:19:10.261Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 9 vectors uploaded
+2025-06-12T01:19:10.724Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 9 vectors
+2025-06-12T01:19:11.310Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 9 vectors uploaded
+2025-06-12T01:19:11.346Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 7 vectors
+2025-06-12T01:19:11.795Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 7 vectors uploaded
+2025-06-12T01:19:11.860Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 2 vectors
+2025-06-12T01:19:12.093Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 2 vectors uploaded
+2025-06-12T01:19:12.158Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors
+2025-06-12T01:19:12.516Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors uploaded
+2025-06-12T01:19:12.774Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:19:13.070Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:19:14.043Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 9 vectors
+2025-06-12T01:19:14.443Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 9 vectors uploaded
+2025-06-12T01:19:14.508Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors
+2025-06-12T01:19:14.795Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors uploaded
+2025-06-12T01:19:15.131Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:19:15.415Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:19:15.450Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 4 vectors
+2025-06-12T01:19:15.457Z [INFO] [VectorManager] Flush completed: uploaded 0 vectors
+2025-06-12T01:19:15.458Z [INFO] [VectorManager] Flush completed: uploaded 0 vectors
+2025-06-12T01:19:15.717Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 4 vectors uploaded
+2025-06-12T01:19:15.806Z [INFO] [VectorManager] 从metadata数组中提取到 5 个实际搜索结果
+2025-06-12T01:19:15.808Z [INFO] [VectorManager] Successfully processed 5/5 search results
+2025-06-12T01:19:15.809Z [INFO] [VectorManager] Search completed: found 5 results for query "test_monitor_function..."
+2025-06-12T01:19:15.820Z [INFO] [VectorManager] Shutting down VectorManager...
+2025-06-12T01:19:15.821Z [INFO] [VectorManager] Flush completed: uploaded 0 vectors
+2025-06-12T01:19:15.827Z [INFO] [VectorManager] EmbeddingClient cleanup completed (no explicit shutdown needed)
+2025-06-12T01:19:15.828Z [INFO] [VectorManager] PathEncryption cleanup completed (no explicit shutdown needed)
+2025-06-12T01:19:15.829Z [INFO] [VectorManager] VectorManager shutdown completed
+2025-06-12T01:19:46.633Z [INFO] [VectorManager] Received SIGINT signal
+2025-06-12T01:29:07.577Z [INFO] [VectorManager] Initializing VectorManager...
+2025-06-12T01:29:07.578Z [INFO] [VectorManager] Production mode: full VectorManager initialization
+2025-06-12T01:29:07.581Z [INFO] [VectorManager] PathEncryption initialized
+2025-06-12T01:29:08.786Z [INFO] [VectorManager] CacheManager initialized
+2025-06-12T01:29:09.059Z [INFO] [VectorManager] VectorDB initialized
+2025-06-12T01:29:09.060Z [INFO] [VectorManager] EmbeddingClient initialized
+2025-06-12T01:29:09.061Z [INFO] [VectorManager] VectorManager initialized successfully
+2025-06-12T01:29:15.976Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 45 vectors
+2025-06-12T01:29:16.739Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 45 vectors uploaded
+2025-06-12T01:29:17.270Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 5 vectors
+2025-06-12T01:29:17.464Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 5 vectors uploaded
+2025-06-12T01:29:17.967Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 4 vectors
+2025-06-12T01:29:18.156Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 4 vectors uploaded
+2025-06-12T01:29:18.745Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 5 vectors
+2025-06-12T01:29:18.926Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 5 vectors uploaded
+2025-06-12T01:29:19.807Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:29:20.042Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:29:21.603Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors
+2025-06-12T01:29:22.101Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors uploaded
+2025-06-12T01:29:22.524Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:29:22.721Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:29:23.694Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:29:24.240Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:29:25.447Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:29:25.636Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:29:27.032Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:29:27.219Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:29:28.955Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:29:29.217Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:29:33.487Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:29:33.688Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:29:35.715Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:29:35.912Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:29:37.148Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors
+2025-06-12T01:29:38.030Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors uploaded
+2025-06-12T01:29:38.759Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:29:38.982Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:29:39.939Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:29:40.763Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:29:41.260Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:29:41.451Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:29:42.675Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:29:42.899Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:29:43.049Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:29:43.266Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:29:43.627Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:29:43.820Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:29:44.903Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:29:45.200Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:29:45.680Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:29:46.298Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:29:46.892Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors
+2025-06-12T01:29:47.083Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors uploaded
+2025-06-12T01:29:47.191Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:29:47.380Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:29:47.690Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:29:47.862Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:29:49.203Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:29:49.211Z [INFO] [VectorManager] Flush completed: uploaded 0 vectors
+2025-06-12T01:29:49.212Z [INFO] [VectorManager] Flush completed: uploaded 0 vectors
+2025-06-12T01:29:49.385Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:30:15.337Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 2 vectors
+2025-06-12T01:30:15.613Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 2 vectors uploaded
+2025-06-12T01:30:16.392Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors
+2025-06-12T01:30:16.712Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors uploaded
+2025-06-12T01:30:16.746Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 4 vectors
+2025-06-12T01:30:16.939Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 4 vectors uploaded
+2025-06-12T01:30:17.358Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 2 vectors
+2025-06-12T01:30:17.599Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 2 vectors uploaded
+2025-06-12T01:30:18.107Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors
+2025-06-12T01:30:18.275Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors uploaded
+2025-06-12T01:30:18.623Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:30:18.823Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:30:19.083Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:30:19.296Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:30:19.991Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors
+2025-06-12T01:30:20.182Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors uploaded
+2025-06-12T01:30:20.479Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:30:20.689Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:30:21.174Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 4 vectors
+2025-06-12T01:30:21.416Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 4 vectors uploaded
+2025-06-12T01:30:21.819Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 5 vectors
+2025-06-12T01:30:22.002Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 5 vectors uploaded
+2025-06-12T01:30:22.191Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:30:22.423Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:30:23.207Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors
+2025-06-12T01:30:23.753Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors uploaded
+2025-06-12T01:30:23.818Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 4 vectors
+2025-06-12T01:30:23.993Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 4 vectors uploaded
+2025-06-12T01:30:24.569Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 5 vectors
+2025-06-12T01:30:24.796Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 5 vectors uploaded
+2025-06-12T01:30:26.187Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:30:26.399Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:30:26.613Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:30:26.818Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:30:28.334Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:30:28.816Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:30:29.097Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:30:29.286Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:30:29.925Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:30:30.099Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:30:30.243Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:30:30.441Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:30:30.811Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:30:30.984Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:30:31.401Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:30:31.580Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:30:32.082Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:30:32.278Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:30:32.642Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:30:32.904Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:30:33.918Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:30:33.967Z [INFO] [VectorManager] Flush completed: uploaded 0 vectors
+2025-06-12T01:30:33.968Z [INFO] [VectorManager] Flush completed: uploaded 0 vectors
+2025-06-12T01:30:34.167Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:30:34.798Z [INFO] [VectorManager] 从metadata数组中提取到 5 个实际搜索结果
+2025-06-12T01:30:34.798Z [INFO] [VectorManager] Successfully processed 5/5 search results
+2025-06-12T01:30:34.799Z [INFO] [VectorManager] Search completed: found 5 results for query "test_monitor_function..."
+2025-06-12T01:30:37.030Z [INFO] [VectorManager] Shutting down VectorManager...
+2025-06-12T01:30:37.034Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 1 vectors
+2025-06-12T01:30:37.565Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 1 vectors uploaded
+2025-06-12T01:30:37.566Z [INFO] [VectorManager] Flush completed: uploaded 1 vectors
+2025-06-12T01:30:37.567Z [INFO] [VectorManager] EmbeddingClient cleanup completed (no explicit shutdown needed)
+2025-06-12T01:30:37.568Z [INFO] [VectorManager] PathEncryption cleanup completed (no explicit shutdown needed)
+2025-06-12T01:30:37.568Z [INFO] [VectorManager] VectorManager shutdown completed
+2025-06-12T01:32:00.312Z [INFO] [VectorManager] Received SIGINT signal
+2025-06-12T01:32:01.959Z [INFO] [VectorManager] Initializing VectorManager...
+2025-06-12T01:32:01.960Z [INFO] [VectorManager] Production mode: full VectorManager initialization
+2025-06-12T01:32:01.963Z [INFO] [VectorManager] PathEncryption initialized
+2025-06-12T01:32:06.976Z [INFO] [VectorManager] CacheManager initialized
+2025-06-12T01:32:07.147Z [INFO] [VectorManager] VectorDB initialized
+2025-06-12T01:32:07.148Z [INFO] [VectorManager] EmbeddingClient initialized
+2025-06-12T01:32:07.149Z [INFO] [VectorManager] VectorManager initialized successfully
+2025-06-12T01:32:12.955Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 175 vectors
+2025-06-12T01:32:15.953Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 175 vectors uploaded
+2025-06-12T01:32:18.316Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors
+2025-06-12T01:32:18.868Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors uploaded
+2025-06-12T01:32:19.620Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors
+2025-06-12T01:32:20.232Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors uploaded
+2025-06-12T01:32:20.731Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:32:23.523Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:32:23.780Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 9 vectors
+2025-06-12T01:32:25.031Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 9 vectors uploaded
+2025-06-12T01:32:25.393Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors
+2025-06-12T01:32:25.998Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors uploaded
+2025-06-12T01:32:27.342Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors
+2025-06-12T01:32:28.051Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors uploaded
+2025-06-12T01:32:28.256Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors
+2025-06-12T01:32:28.802Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors uploaded
+2025-06-12T01:32:29.348Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 5 vectors
+2025-06-12T01:32:29.818Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 5 vectors uploaded
+2025-06-12T01:32:30.091Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 7 vectors
+2025-06-12T01:32:30.785Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 7 vectors uploaded
+2025-06-12T01:32:31.305Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 9 vectors
+2025-06-12T01:32:32.056Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 9 vectors uploaded
+2025-06-12T01:32:34.079Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors
+2025-06-12T01:32:34.837Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors uploaded
+2025-06-12T01:32:34.965Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 8 vectors
+2025-06-12T01:32:35.555Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 8 vectors uploaded
+2025-06-12T01:32:35.618Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 8 vectors
+2025-06-12T01:32:36.291Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 8 vectors uploaded
+2025-06-12T01:32:36.690Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 2 vectors
+2025-06-12T01:32:36.964Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 2 vectors uploaded
+2025-06-12T01:32:37.497Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:32:37.508Z [INFO] [VectorManager] Flush completed: uploaded 0 vectors
+2025-06-12T01:32:37.508Z [INFO] [VectorManager] Flush completed: uploaded 0 vectors
+2025-06-12T01:32:38.065Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:33:01.108Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:33:01.367Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:33:01.892Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 5 vectors
+2025-06-12T01:33:02.245Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 5 vectors uploaded
+2025-06-12T01:33:02.776Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:33:03.003Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:33:03.036Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 7 vectors
+2025-06-12T01:33:03.216Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 7 vectors uploaded
+2025-06-12T01:33:03.928Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 2 vectors
+2025-06-12T01:33:04.424Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 2 vectors uploaded
+2025-06-12T01:33:04.515Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:33:04.705Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:33:05.570Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:33:05.760Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:33:05.846Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:33:06.016Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:33:06.769Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:33:06.981Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:33:07.861Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors
+2025-06-12T01:33:08.381Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 6 vectors uploaded
+2025-06-12T01:33:08.415Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 4 vectors
+2025-06-12T01:33:08.644Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 4 vectors uploaded
+2025-06-12T01:33:09.010Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 2 vectors
+2025-06-12T01:33:09.219Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 2 vectors uploaded
+2025-06-12T01:33:09.615Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:33:10.115Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:33:10.444Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 9 vectors
+2025-06-12T01:33:10.682Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 9 vectors uploaded
+2025-06-12T01:33:11.380Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:33:11.911Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:33:11.977Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:33:12.286Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:33:13.126Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:33:13.314Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:33:13.408Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:33:13.628Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:33:13.882Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:33:14.092Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:33:14.549Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:33:14.749Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:33:14.863Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:33:15.108Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:33:15.180Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 4 vectors
+2025-06-12T01:33:15.416Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 4 vectors uploaded
+2025-06-12T01:33:15.828Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 2 vectors
+2025-06-12T01:33:16.076Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 2 vectors uploaded
+2025-06-12T01:33:16.142Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 7 vectors
+2025-06-12T01:33:16.335Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 7 vectors uploaded
+2025-06-12T01:33:16.866Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 2 vectors
+2025-06-12T01:33:17.075Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 2 vectors uploaded
+2025-06-12T01:33:18.173Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors
+2025-06-12T01:33:18.228Z [INFO] [VectorManager] Flush completed: uploaded 0 vectors
+2025-06-12T01:33:18.229Z [INFO] [VectorManager] Flush completed: uploaded 0 vectors
+2025-06-12T01:33:18.379Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T01:33:18.750Z [INFO] [VectorManager] 从metadata数组中提取到 5 个实际搜索结果
+2025-06-12T01:33:18.752Z [INFO] [VectorManager] Successfully processed 5/5 search results
+2025-06-12T01:33:18.753Z [INFO] [VectorManager] Search completed: found 5 results for query "test_monitor_function..."
+2025-06-12T01:33:24.593Z [INFO] [VectorManager] Shutting down VectorManager...
+2025-06-12T01:33:24.597Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 1 vectors
+2025-06-12T01:33:24.857Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 1 vectors uploaded
+2025-06-12T01:33:24.858Z [INFO] [VectorManager] Flush completed: uploaded 1 vectors
+2025-06-12T01:33:24.861Z [INFO] [VectorManager] EmbeddingClient cleanup completed (no explicit shutdown needed)
+2025-06-12T01:33:24.862Z [INFO] [VectorManager] PathEncryption cleanup completed (no explicit shutdown needed)
+2025-06-12T01:33:24.863Z [INFO] [VectorManager] VectorManager shutdown completed
+2025-06-12T02:11:01.265Z [INFO] [VectorManager] Received SIGINT signal
+2025-06-12T02:27:30.225Z [INFO] [VectorManager] Initializing VectorManager...
+2025-06-12T02:27:30.227Z [INFO] [VectorManager] Production mode: full VectorManager initialization
+2025-06-12T02:27:30.230Z [INFO] [VectorManager] PathEncryption initialized
+2025-06-12T02:27:34.573Z [INFO] [VectorManager] CacheManager initialized
+2025-06-12T02:27:34.672Z [INFO] [VectorManager] VectorDB initialized
+2025-06-12T02:27:34.673Z [INFO] [VectorManager] EmbeddingClient initialized
+2025-06-12T02:27:34.674Z [INFO] [VectorManager] VectorManager initialized successfully
+2025-06-12T02:27:38.626Z [INFO] [VectorManager] Starting batch upload for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 2 vectors
+2025-06-12T02:27:38.820Z [INFO] [VectorManager] Batch upload completed for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 2 vectors uploaded
+2025-06-12T02:27:38.986Z [INFO] [VectorManager] Starting batch upload for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 6 vectors
+2025-06-12T02:27:39.122Z [INFO] [VectorManager] Batch upload completed for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 6 vectors uploaded
+2025-06-12T02:27:39.648Z [INFO] [VectorManager] Starting batch upload for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 4 vectors
+2025-06-12T02:27:39.810Z [INFO] [VectorManager] Batch upload completed for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 4 vectors uploaded
+2025-06-12T02:27:40.660Z [INFO] [VectorManager] Starting batch upload for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 5 vectors
+2025-06-12T02:27:40.753Z [INFO] [VectorManager] Batch upload completed for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 5 vectors uploaded
+2025-06-12T02:27:41.014Z [INFO] [VectorManager] Starting batch upload for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 3 vectors
+2025-06-12T02:27:41.144Z [INFO] [VectorManager] Batch upload completed for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T02:27:41.603Z [INFO] [VectorManager] Starting batch upload for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 6 vectors
+2025-06-12T02:27:41.710Z [INFO] [VectorManager] Batch upload completed for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 6 vectors uploaded
+2025-06-12T02:27:41.820Z [INFO] [VectorManager] Starting batch upload for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 3 vectors
+2025-06-12T02:27:41.929Z [INFO] [VectorManager] Batch upload completed for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T02:27:42.154Z [INFO] [VectorManager] Starting batch upload for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 3 vectors
+2025-06-12T02:27:42.263Z [INFO] [VectorManager] Batch upload completed for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T02:27:42.296Z [INFO] [VectorManager] Starting batch upload for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 3 vectors
+2025-06-12T02:27:42.388Z [INFO] [VectorManager] Batch upload completed for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T02:27:42.597Z [INFO] [VectorManager] Starting batch upload for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 3 vectors
+2025-06-12T02:27:42.694Z [INFO] [VectorManager] Batch upload completed for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T02:27:43.033Z [INFO] [VectorManager] Starting batch upload for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 3 vectors
+2025-06-12T02:27:43.118Z [INFO] [VectorManager] Batch upload completed for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T02:27:44.042Z [INFO] [VectorManager] Starting batch upload for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 3 vectors
+2025-06-12T02:27:44.146Z [INFO] [VectorManager] Batch upload completed for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T02:27:44.328Z [INFO] [VectorManager] Starting batch upload for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 3 vectors
+2025-06-12T02:27:44.466Z [INFO] [VectorManager] Batch upload completed for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T02:27:44.530Z [INFO] [VectorManager] Starting batch upload for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 4 vectors
+2025-06-12T02:27:44.653Z [INFO] [VectorManager] Batch upload completed for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 4 vectors uploaded
+2025-06-12T02:27:44.759Z [INFO] [VectorManager] Starting batch upload for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 2 vectors
+2025-06-12T02:27:44.863Z [INFO] [VectorManager] Batch upload completed for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 2 vectors uploaded
+2025-06-12T02:27:45.016Z [INFO] [VectorManager] Starting batch upload for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 3 vectors
+2025-06-12T02:27:45.124Z [INFO] [VectorManager] Batch upload completed for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T02:27:45.223Z [INFO] [VectorManager] Starting batch upload for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 3 vectors
+2025-06-12T02:27:45.324Z [INFO] [VectorManager] Batch upload completed for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T02:27:45.821Z [INFO] [VectorManager] Starting batch upload for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 3 vectors
+2025-06-12T02:27:45.940Z [INFO] [VectorManager] Batch upload completed for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T02:27:46.163Z [INFO] [VectorManager] Starting batch upload for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 3 vectors
+2025-06-12T02:27:46.305Z [INFO] [VectorManager] Batch upload completed for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T02:27:46.395Z [INFO] [VectorManager] Starting batch upload for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 6 vectors
+2025-06-12T02:27:46.496Z [INFO] [VectorManager] Batch upload completed for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 6 vectors uploaded
+2025-06-12T02:27:47.031Z [INFO] [VectorManager] Starting batch upload for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 3 vectors
+2025-06-12T02:27:47.180Z [INFO] [VectorManager] Batch upload completed for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T02:27:47.247Z [INFO] [VectorManager] Starting batch upload for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 5 vectors
+2025-06-12T02:27:47.436Z [INFO] [VectorManager] Batch upload completed for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 5 vectors uploaded
+2025-06-12T02:27:47.816Z [INFO] [VectorManager] Starting batch upload for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 4 vectors
+2025-06-12T02:27:47.965Z [INFO] [VectorManager] Batch upload completed for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 4 vectors uploaded
+2025-06-12T02:27:48.009Z [INFO] [VectorManager] Starting batch upload for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 4 vectors
+2025-06-12T02:27:48.126Z [INFO] [VectorManager] Batch upload completed for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 4 vectors uploaded
+2025-06-12T02:27:48.226Z [INFO] [VectorManager] Starting batch upload for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 2 vectors
+2025-06-12T02:27:48.327Z [INFO] [VectorManager] Batch upload completed for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 2 vectors uploaded
+2025-06-12T02:27:48.885Z [INFO] [VectorManager] Starting batch upload for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 3 vectors
+2025-06-12T02:27:48.895Z [INFO] [VectorManager] Starting batch upload for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 151 vectors
+2025-06-12T02:27:49.059Z [INFO] [VectorManager] Batch upload completed for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-12T02:27:51.285Z [INFO] [VectorManager] Batch upload completed for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1: 151 vectors uploaded
+2025-06-12T02:27:51.285Z [INFO] [VectorManager] Flush completed: uploaded 151 vectors
+2025-06-12T02:27:51.287Z [INFO] [VectorManager] Flush completed: uploaded 0 vectors
+2025-06-12T02:27:51.500Z [INFO] [VectorManager] 从metadata数组中提取到 5 个实际搜索结果
+2025-06-12T02:27:51.501Z [INFO] [VectorManager] Successfully processed 5/5 search results
+2025-06-12T02:27:51.502Z [INFO] [VectorManager] Search completed: found 5 results for query "python parser..."
+2025-06-12T02:27:54.671Z [INFO] [VectorManager] Initializing VectorManager...
+2025-06-12T02:27:54.672Z [INFO] [VectorManager] Production mode: full VectorManager initialization
+2025-06-12T02:27:54.680Z [INFO] [VectorManager] Shutting down VectorManager...
+2025-06-12T02:27:54.681Z [INFO] [VectorManager] Flush completed: uploaded 0 vectors
+2025-06-12T02:27:54.685Z [INFO] [VectorManager] EmbeddingClient cleanup completed (no explicit shutdown needed)
+2025-06-12T02:27:54.685Z [INFO] [VectorManager] PathEncryption cleanup completed (no explicit shutdown needed)
+2025-06-12T02:27:54.686Z [INFO] [VectorManager] VectorManager shutdown completed
+2025-06-12T02:27:54.733Z [INFO] [VectorManager] VectorDB initialized
+2025-06-12T02:27:54.735Z [INFO] [VectorManager] EmbeddingClient initialized
+2025-06-12T02:27:54.737Z [INFO] [VectorManager] VectorManager initialized successfully
+2025-06-12T03:27:29.945Z [INFO] [VectorManager] Flush completed: uploaded 0 vectors

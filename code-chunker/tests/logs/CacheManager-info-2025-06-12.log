@@ -1,0 +1,368 @@
+2025-06-12T01:18:28.948Z [INFO] [CacheManager] Initializing CacheManager...
+2025-06-12T01:18:31.482Z [INFO] [CacheManager] Restored 88 vectors from persistence for test-user-001_test-device-001_40ed986ee22bede1
+2025-06-12T01:18:31.482Z [INFO] [CacheManager] CacheManager initialized successfully
+2025-06-12T01:18:36.559Z [INFO] [CacheManager] Extracted 2 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:18:36.908Z [INFO] [CacheManager] Cleared 2 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:18:36.909Z [INFO] [CacheManager] Extracted 7 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:18:37.157Z [INFO] [CacheManager] Cleared 7 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:18:37.544Z [INFO] [CacheManager] Extracted 2 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:18:37.734Z [INFO] [CacheManager] Cleared 2 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:18:38.118Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:18:38.296Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:18:38.968Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:18:39.145Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:18:39.743Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:18:39.936Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:18:40.137Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:18:40.336Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:18:40.599Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:18:40.797Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:18:41.472Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:18:41.611Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:18:42.073Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:18:42.518Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:18:42.931Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:18:43.164Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:18:43.431Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:18:43.622Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:18:43.959Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:18:44.133Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:18:44.244Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:18:44.443Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:18:45.234Z [INFO] [CacheManager] Extracted 5 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:18:45.412Z [INFO] [CacheManager] Cleared 5 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:18:45.762Z [INFO] [CacheManager] Extracted 4 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:18:45.941Z [INFO] [CacheManager] Cleared 4 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:18:46.359Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:18:46.565Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:18:47.247Z [INFO] [CacheManager] Extracted 6 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:18:47.437Z [INFO] [CacheManager] Cleared 6 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:18:47.844Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:18:48.011Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:18:48.110Z [INFO] [CacheManager] Extracted 6 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:18:48.307Z [INFO] [CacheManager] Cleared 6 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:18:48.552Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:18:48.713Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:18:49.107Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:18:49.291Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:18:49.354Z [INFO] [CacheManager] Extracted 4 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:18:49.560Z [INFO] [CacheManager] Cleared 4 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:18:49.822Z [INFO] [CacheManager] Extracted 2 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:18:50.002Z [INFO] [CacheManager] Cleared 2 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:18:50.065Z [INFO] [CacheManager] Extracted 6 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:18:50.214Z [INFO] [CacheManager] Cleared 6 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:18:50.787Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:18:50.798Z [INFO] [CacheManager] Extracted 88 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-12T01:18:51.263Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:18:51.682Z [INFO] [CacheManager] Cleared 50 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-12T01:18:52.046Z [INFO] [CacheManager] Cleared 38 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-12T01:18:59.591Z [INFO] [CacheManager] Extracted 2 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:19:00.025Z [INFO] [CacheManager] Cleared 2 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:19:00.241Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:19:00.440Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:19:01.247Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:19:01.409Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:19:01.483Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:19:01.660Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:19:01.875Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:19:02.063Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:19:02.567Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:19:02.739Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:19:03.897Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:19:04.786Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:19:05.487Z [INFO] [CacheManager] Extracted 6 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:19:08.063Z [INFO] [CacheManager] Cleared 6 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:19:08.138Z [INFO] [CacheManager] Extracted 12 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:19:09.176Z [INFO] [CacheManager] Cleared 12 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:19:09.602Z [INFO] [CacheManager] Extracted 9 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:19:10.261Z [INFO] [CacheManager] Cleared 9 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:19:10.723Z [INFO] [CacheManager] Extracted 9 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:19:11.310Z [INFO] [CacheManager] Cleared 9 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:19:11.345Z [INFO] [CacheManager] Extracted 7 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:19:11.795Z [INFO] [CacheManager] Cleared 7 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:19:11.860Z [INFO] [CacheManager] Extracted 2 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:19:12.092Z [INFO] [CacheManager] Cleared 2 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:19:12.158Z [INFO] [CacheManager] Extracted 6 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:19:12.516Z [INFO] [CacheManager] Cleared 6 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:19:12.773Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:19:13.070Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:19:14.043Z [INFO] [CacheManager] Extracted 9 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:19:14.443Z [INFO] [CacheManager] Cleared 9 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:19:14.507Z [INFO] [CacheManager] Extracted 6 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:19:14.794Z [INFO] [CacheManager] Cleared 6 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:19:15.131Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:19:15.414Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:19:15.449Z [INFO] [CacheManager] Extracted 4 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:19:15.716Z [INFO] [CacheManager] Cleared 4 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:19:15.822Z [INFO] [CacheManager] Shutting down CacheManager...
+2025-06-12T01:19:15.823Z [INFO] [CacheManager] CacheManager shutdown completed
+2025-06-12T01:29:07.582Z [INFO] [CacheManager] Initializing CacheManager...
+2025-06-12T01:29:08.785Z [INFO] [CacheManager] Restored 42 vectors from persistence for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:29:08.786Z [INFO] [CacheManager] Restored 0 vectors from persistence for test-user-001_test-device-001_40ed986ee22bede1
+2025-06-12T01:29:08.786Z [INFO] [CacheManager] CacheManager initialized successfully
+2025-06-12T01:29:15.976Z [INFO] [CacheManager] Extracted 45 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:29:16.738Z [INFO] [CacheManager] Cleared 45 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:29:17.270Z [INFO] [CacheManager] Extracted 5 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:29:17.462Z [INFO] [CacheManager] Cleared 5 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:29:17.967Z [INFO] [CacheManager] Extracted 4 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:29:18.155Z [INFO] [CacheManager] Cleared 4 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:29:18.744Z [INFO] [CacheManager] Extracted 5 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:29:18.926Z [INFO] [CacheManager] Cleared 5 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:29:19.807Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:29:20.042Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:29:21.602Z [INFO] [CacheManager] Extracted 6 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:29:22.100Z [INFO] [CacheManager] Cleared 6 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:29:22.524Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:29:22.720Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:29:23.694Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:29:24.239Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:29:25.446Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:29:25.636Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:29:27.032Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:29:27.219Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:29:28.954Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:29:29.217Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:29:33.486Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:29:33.688Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:29:35.715Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:29:35.911Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:29:37.148Z [INFO] [CacheManager] Extracted 6 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:29:38.030Z [INFO] [CacheManager] Cleared 6 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:29:38.759Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:29:38.981Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:29:39.939Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:29:40.762Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:29:41.260Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:29:41.451Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:29:42.674Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:29:42.899Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:29:43.049Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:29:43.265Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:29:43.627Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:29:43.820Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:29:44.903Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:29:45.199Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:29:45.679Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:29:46.297Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:29:46.892Z [INFO] [CacheManager] Extracted 6 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:29:47.082Z [INFO] [CacheManager] Cleared 6 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:29:47.191Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:29:47.380Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:29:47.689Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:29:47.861Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:29:49.202Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:29:49.384Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:30:15.337Z [INFO] [CacheManager] Extracted 2 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:30:15.612Z [INFO] [CacheManager] Cleared 2 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:30:16.392Z [INFO] [CacheManager] Extracted 6 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:30:16.711Z [INFO] [CacheManager] Cleared 6 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:30:16.745Z [INFO] [CacheManager] Extracted 4 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:30:16.938Z [INFO] [CacheManager] Cleared 4 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:30:17.358Z [INFO] [CacheManager] Extracted 2 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:30:17.598Z [INFO] [CacheManager] Cleared 2 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:30:18.107Z [INFO] [CacheManager] Extracted 6 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:30:18.274Z [INFO] [CacheManager] Cleared 6 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:30:18.623Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:30:18.823Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:30:19.082Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:30:19.296Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:30:19.991Z [INFO] [CacheManager] Extracted 6 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:30:20.182Z [INFO] [CacheManager] Cleared 6 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:30:20.479Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:30:20.689Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:30:21.173Z [INFO] [CacheManager] Extracted 4 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:30:21.415Z [INFO] [CacheManager] Cleared 4 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:30:21.819Z [INFO] [CacheManager] Extracted 5 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:30:22.002Z [INFO] [CacheManager] Cleared 5 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:30:22.190Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:30:22.423Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:30:23.207Z [INFO] [CacheManager] Extracted 6 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:30:23.752Z [INFO] [CacheManager] Cleared 6 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:30:23.817Z [INFO] [CacheManager] Extracted 4 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:30:23.993Z [INFO] [CacheManager] Cleared 4 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:30:24.569Z [INFO] [CacheManager] Extracted 5 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:30:24.795Z [INFO] [CacheManager] Cleared 5 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:30:26.187Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:30:26.398Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:30:26.613Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:30:26.817Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:30:28.334Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:30:28.816Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:30:29.097Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:30:29.285Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:30:29.924Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:30:30.099Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:30:30.243Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:30:30.441Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:30:30.811Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:30:30.983Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:30:31.401Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:30:31.579Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:30:32.081Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:30:32.278Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:30:32.642Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:30:32.904Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:30:33.918Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:30:34.166Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:30:37.033Z [INFO] [CacheManager] Extracted 1 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:30:37.565Z [INFO] [CacheManager] Cleared 1 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:30:37.566Z [INFO] [CacheManager] Shutting down CacheManager...
+2025-06-12T01:30:37.566Z [INFO] [CacheManager] CacheManager shutdown completed
+2025-06-12T01:32:01.964Z [INFO] [CacheManager] Initializing CacheManager...
+2025-06-12T01:32:06.971Z [INFO] [CacheManager] Restored 173 vectors from persistence for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:32:06.975Z [INFO] [CacheManager] Restored 0 vectors from persistence for test-user-001_test-device-001_40ed986ee22bede1
+2025-06-12T01:32:06.976Z [INFO] [CacheManager] CacheManager initialized successfully
+2025-06-12T01:32:12.955Z [INFO] [CacheManager] Extracted 175 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:32:13.647Z [INFO] [CacheManager] Cleared 50 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:32:15.055Z [INFO] [CacheManager] Cleared 50 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:32:15.373Z [INFO] [CacheManager] Cleared 50 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:32:15.952Z [INFO] [CacheManager] Cleared 25 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:32:18.316Z [INFO] [CacheManager] Extracted 6 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:32:18.867Z [INFO] [CacheManager] Cleared 6 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:32:19.620Z [INFO] [CacheManager] Extracted 6 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:32:20.232Z [INFO] [CacheManager] Cleared 6 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:32:20.730Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:32:23.522Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:32:23.780Z [INFO] [CacheManager] Extracted 9 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:32:25.030Z [INFO] [CacheManager] Cleared 9 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:32:25.393Z [INFO] [CacheManager] Extracted 6 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:32:25.996Z [INFO] [CacheManager] Cleared 6 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:32:27.341Z [INFO] [CacheManager] Extracted 6 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:32:28.051Z [INFO] [CacheManager] Cleared 6 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:32:28.255Z [INFO] [CacheManager] Extracted 6 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:32:28.801Z [INFO] [CacheManager] Cleared 6 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:32:29.347Z [INFO] [CacheManager] Extracted 5 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:32:29.818Z [INFO] [CacheManager] Cleared 5 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:32:30.091Z [INFO] [CacheManager] Extracted 7 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:32:30.784Z [INFO] [CacheManager] Cleared 7 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:32:31.304Z [INFO] [CacheManager] Extracted 9 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:32:32.055Z [INFO] [CacheManager] Cleared 9 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:32:34.079Z [INFO] [CacheManager] Extracted 6 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:32:34.656Z [INFO] [CacheManager] Cleared 6 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:32:34.964Z [INFO] [CacheManager] Extracted 8 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:32:35.555Z [INFO] [CacheManager] Cleared 8 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:32:35.617Z [INFO] [CacheManager] Extracted 8 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:32:36.290Z [INFO] [CacheManager] Cleared 8 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:32:36.689Z [INFO] [CacheManager] Extracted 2 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:32:36.963Z [INFO] [CacheManager] Cleared 2 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:32:37.496Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:32:38.064Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:33:01.108Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:33:01.366Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:33:01.892Z [INFO] [CacheManager] Extracted 5 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:33:02.243Z [INFO] [CacheManager] Cleared 5 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:33:02.776Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:33:03.002Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:33:03.035Z [INFO] [CacheManager] Extracted 7 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:33:03.215Z [INFO] [CacheManager] Cleared 7 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:33:03.928Z [INFO] [CacheManager] Extracted 2 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:33:04.424Z [INFO] [CacheManager] Cleared 2 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:33:04.515Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:33:04.704Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:33:05.570Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:33:05.760Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:33:05.846Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:33:06.015Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:33:06.769Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:33:06.980Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:33:07.861Z [INFO] [CacheManager] Extracted 6 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:33:08.381Z [INFO] [CacheManager] Cleared 6 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:33:08.415Z [INFO] [CacheManager] Extracted 4 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:33:08.644Z [INFO] [CacheManager] Cleared 4 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:33:09.010Z [INFO] [CacheManager] Extracted 2 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:33:09.219Z [INFO] [CacheManager] Cleared 2 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:33:09.615Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:33:10.114Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:33:10.444Z [INFO] [CacheManager] Extracted 9 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:33:10.682Z [INFO] [CacheManager] Cleared 9 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:33:11.380Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:33:11.910Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:33:11.976Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:33:12.286Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:33:13.125Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:33:13.313Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:33:13.408Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:33:13.627Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:33:13.881Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:33:14.092Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:33:14.549Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:33:14.748Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:33:14.862Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:33:15.108Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:33:15.179Z [INFO] [CacheManager] Extracted 4 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:33:15.416Z [INFO] [CacheManager] Cleared 4 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:33:15.828Z [INFO] [CacheManager] Extracted 2 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:33:16.076Z [INFO] [CacheManager] Cleared 2 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:33:16.141Z [INFO] [CacheManager] Extracted 7 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:33:16.334Z [INFO] [CacheManager] Cleared 7 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:33:16.866Z [INFO] [CacheManager] Extracted 2 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:33:17.074Z [INFO] [CacheManager] Cleared 2 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:33:18.173Z [INFO] [CacheManager] Extracted 3 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:33:18.378Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:33:24.596Z [INFO] [CacheManager] Extracted 1 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T01:33:24.857Z [INFO] [CacheManager] Cleared 1 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T01:33:24.858Z [INFO] [CacheManager] Shutting down CacheManager...
+2025-06-12T01:33:24.858Z [INFO] [CacheManager] CacheManager shutdown completed
+2025-06-12T02:27:30.230Z [INFO] [CacheManager] Initializing CacheManager...
+2025-06-12T02:27:34.568Z [INFO] [CacheManager] Restored 151 vectors from persistence for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T02:27:34.571Z [INFO] [CacheManager] Restored 0 vectors from persistence for test-user-001_test-device-001_40ed986ee22bede1
+2025-06-12T02:27:34.573Z [INFO] [CacheManager] CacheManager initialized successfully
+2025-06-12T02:27:38.625Z [INFO] [CacheManager] Extracted 2 vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1 for upload
+2025-06-12T02:27:38.819Z [INFO] [CacheManager] Cleared 2 uploaded vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1
+2025-06-12T02:27:38.985Z [INFO] [CacheManager] Extracted 6 vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1 for upload
+2025-06-12T02:27:39.121Z [INFO] [CacheManager] Cleared 6 uploaded vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1
+2025-06-12T02:27:39.648Z [INFO] [CacheManager] Extracted 4 vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1 for upload
+2025-06-12T02:27:39.809Z [INFO] [CacheManager] Cleared 4 uploaded vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1
+2025-06-12T02:27:40.659Z [INFO] [CacheManager] Extracted 5 vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1 for upload
+2025-06-12T02:27:40.753Z [INFO] [CacheManager] Cleared 5 uploaded vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1
+2025-06-12T02:27:41.014Z [INFO] [CacheManager] Extracted 3 vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1 for upload
+2025-06-12T02:27:41.143Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1
+2025-06-12T02:27:41.603Z [INFO] [CacheManager] Extracted 6 vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1 for upload
+2025-06-12T02:27:41.710Z [INFO] [CacheManager] Cleared 6 uploaded vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1
+2025-06-12T02:27:41.820Z [INFO] [CacheManager] Extracted 3 vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1 for upload
+2025-06-12T02:27:41.929Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1
+2025-06-12T02:27:42.153Z [INFO] [CacheManager] Extracted 3 vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1 for upload
+2025-06-12T02:27:42.262Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1
+2025-06-12T02:27:42.295Z [INFO] [CacheManager] Extracted 3 vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1 for upload
+2025-06-12T02:27:42.388Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1
+2025-06-12T02:27:42.597Z [INFO] [CacheManager] Extracted 3 vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1 for upload
+2025-06-12T02:27:42.694Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1
+2025-06-12T02:27:43.032Z [INFO] [CacheManager] Extracted 3 vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1 for upload
+2025-06-12T02:27:43.118Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1
+2025-06-12T02:27:44.042Z [INFO] [CacheManager] Extracted 3 vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1 for upload
+2025-06-12T02:27:44.145Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1
+2025-06-12T02:27:44.328Z [INFO] [CacheManager] Extracted 3 vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1 for upload
+2025-06-12T02:27:44.466Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1
+2025-06-12T02:27:44.529Z [INFO] [CacheManager] Extracted 4 vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1 for upload
+2025-06-12T02:27:44.652Z [INFO] [CacheManager] Cleared 4 uploaded vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1
+2025-06-12T02:27:44.759Z [INFO] [CacheManager] Extracted 2 vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1 for upload
+2025-06-12T02:27:44.862Z [INFO] [CacheManager] Cleared 2 uploaded vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1
+2025-06-12T02:27:45.015Z [INFO] [CacheManager] Extracted 3 vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1 for upload
+2025-06-12T02:27:45.124Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1
+2025-06-12T02:27:45.223Z [INFO] [CacheManager] Extracted 3 vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1 for upload
+2025-06-12T02:27:45.324Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1
+2025-06-12T02:27:45.821Z [INFO] [CacheManager] Extracted 3 vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1 for upload
+2025-06-12T02:27:45.939Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1
+2025-06-12T02:27:46.162Z [INFO] [CacheManager] Extracted 3 vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1 for upload
+2025-06-12T02:27:46.304Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1
+2025-06-12T02:27:46.395Z [INFO] [CacheManager] Extracted 6 vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1 for upload
+2025-06-12T02:27:46.495Z [INFO] [CacheManager] Cleared 6 uploaded vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1
+2025-06-12T02:27:47.031Z [INFO] [CacheManager] Extracted 3 vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1 for upload
+2025-06-12T02:27:47.180Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1
+2025-06-12T02:27:47.247Z [INFO] [CacheManager] Extracted 5 vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1 for upload
+2025-06-12T02:27:47.435Z [INFO] [CacheManager] Cleared 5 uploaded vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1
+2025-06-12T02:27:47.816Z [INFO] [CacheManager] Extracted 4 vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1 for upload
+2025-06-12T02:27:47.962Z [INFO] [CacheManager] Cleared 4 uploaded vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1
+2025-06-12T02:27:48.008Z [INFO] [CacheManager] Extracted 4 vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1 for upload
+2025-06-12T02:27:48.125Z [INFO] [CacheManager] Cleared 4 uploaded vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1
+2025-06-12T02:27:48.226Z [INFO] [CacheManager] Extracted 2 vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1 for upload
+2025-06-12T02:27:48.326Z [INFO] [CacheManager] Cleared 2 uploaded vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1
+2025-06-12T02:27:48.885Z [INFO] [CacheManager] Extracted 3 vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1 for upload
+2025-06-12T02:27:48.894Z [INFO] [CacheManager] Extracted 151 vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1 for upload
+2025-06-12T02:27:49.059Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1
+2025-06-12T02:27:50.126Z [INFO] [CacheManager] Cleared 50 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T02:27:50.717Z [INFO] [CacheManager] Cleared 50 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T02:27:51.199Z [INFO] [CacheManager] Cleared 50 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T02:27:51.284Z [INFO] [CacheManager] Cleared 1 uploaded vectors from cache test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-12T02:27:54.683Z [INFO] [CacheManager] Shutting down CacheManager...
+2025-06-12T02:27:54.684Z [INFO] [CacheManager] CacheManager shutdown completed

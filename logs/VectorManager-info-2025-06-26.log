@@ -1,0 +1,6 @@
+2025-06-26T11:58:04.635Z [INFO] [VectorManager] Initializing VectorManager...
+2025-06-26T11:58:04.636Z [INFO] [VectorManager] Production mode: full VectorManager initialization
+2025-06-26T11:58:04.637Z [INFO] [VectorManager] PathEncryption disabled, using passthrough mode
+2025-06-26T11:58:04.643Z [INFO] [VectorManager] Database disabled or API-only mode, skipping VectorDB initialization
+2025-06-26T11:58:04.644Z [INFO] [VectorManager] EmbeddingClient initialized
+2025-06-26T11:58:04.645Z [INFO] [VectorManager] VectorManager initialized successfully

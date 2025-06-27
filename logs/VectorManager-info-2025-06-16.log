@@ -1,0 +1,7 @@
+2025-06-16T01:33:00.897Z [INFO] [VectorManager] Initializing VectorManager...
+2025-06-16T01:33:00.906Z [INFO] [VectorManager] Production mode: full VectorManager initialization
+2025-06-16T01:33:00.908Z [INFO] [VectorManager] PathEncryption disabled, using passthrough mode
+2025-06-16T01:33:00.918Z [INFO] [VectorManager] CacheManager initialized
+2025-06-16T01:33:03.236Z [INFO] [VectorManager] VectorDB initialized with Tencent Cloud
+2025-06-16T01:33:03.237Z [INFO] [VectorManager] EmbeddingClient initialized
+2025-06-16T01:33:03.240Z [INFO] [VectorManager] VectorManager initialized successfully

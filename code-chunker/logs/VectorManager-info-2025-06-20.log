@@ -1,0 +1,44 @@
+2025-06-20T03:18:43.653Z [INFO] [VectorManager] Initializing VectorManager...
+2025-06-20T03:18:43.654Z [INFO] [VectorManager] Production mode: full VectorManager initialization
+2025-06-20T03:18:43.654Z [INFO] [VectorManager] PathEncryption disabled, using passthrough mode
+2025-06-20T03:18:43.658Z [INFO] [VectorManager] Database disabled or API-only mode, skipping VectorDB initialization
+2025-06-20T03:18:43.659Z [INFO] [VectorManager] EmbeddingClient initialized
+2025-06-20T03:18:43.660Z [INFO] [VectorManager] VectorManager initialized successfully
+2025-06-20T03:18:43.661Z [INFO] [VectorManager] Shutting down VectorManager...
+2025-06-20T03:18:43.662Z [INFO] [VectorManager] Waiting for ongoing operations to complete...
+2025-06-20T03:18:45.676Z [INFO] [VectorManager] EmbeddingClient cleanup completed (no explicit shutdown needed)
+2025-06-20T03:18:45.677Z [INFO] [VectorManager] PathEncryption cleanup completed (no explicit shutdown needed)
+2025-06-20T03:18:45.677Z [INFO] [VectorManager] VectorManager shutdown completed
+2025-06-20T03:18:45.678Z [INFO] [VectorManager] Initializing VectorManager...
+2025-06-20T03:18:45.679Z [INFO] [VectorManager] Production mode: full VectorManager initialization
+2025-06-20T03:18:45.679Z [INFO] [VectorManager] PathEncryption disabled, using passthrough mode
+2025-06-20T03:18:45.683Z [INFO] [VectorManager] Database disabled or API-only mode, skipping VectorDB initialization
+2025-06-20T03:18:45.684Z [INFO] [VectorManager] EmbeddingClient initialized
+2025-06-20T03:18:45.684Z [INFO] [VectorManager] VectorManager initialized successfully
+2025-06-20T03:25:55.414Z [INFO] [VectorManager] Initializing VectorManager...
+2025-06-20T03:25:55.416Z [INFO] [VectorManager] Production mode: full VectorManager initialization
+2025-06-20T03:25:55.416Z [INFO] [VectorManager] PathEncryption disabled, using passthrough mode
+2025-06-20T03:25:55.424Z [INFO] [VectorManager] Shutting down VectorManager...
+2025-06-20T03:25:55.425Z [INFO] [VectorManager] Waiting for ongoing operations to complete...
+2025-06-20T03:25:56.066Z [INFO] [VectorManager] CacheManager initialized
+2025-06-20T03:25:56.066Z [INFO] [VectorManager] Database disabled or API-only mode, skipping VectorDB initialization
+2025-06-20T03:25:56.067Z [INFO] [VectorManager] EmbeddingClient initialized
+2025-06-20T03:25:56.068Z [INFO] [VectorManager] VectorManager initialized successfully
+2025-06-20T03:25:57.442Z [INFO] [VectorManager] Starting batch upload for test_user_test_device_11cb8a2dd6898e98: 20 vectors
+2025-06-20T03:25:57.460Z [INFO] [VectorManager] Flush completed: uploaded 20 vectors
+2025-06-20T03:25:57.467Z [INFO] [VectorManager] EmbeddingClient cleanup completed (no explicit shutdown needed)
+2025-06-20T03:25:57.469Z [INFO] [VectorManager] PathEncryption cleanup completed (no explicit shutdown needed)
+2025-06-20T03:25:57.471Z [INFO] [VectorManager] VectorManager shutdown completed
+2025-06-20T03:29:23.949Z [INFO] [VectorManager] Initializing VectorManager...
+2025-06-20T03:29:23.950Z [INFO] [VectorManager] Production mode: full VectorManager initialization
+2025-06-20T03:29:23.951Z [INFO] [VectorManager] PathEncryption disabled, using passthrough mode
+2025-06-20T03:29:23.971Z [INFO] [VectorManager] CacheManager initialized
+2025-06-20T03:29:23.971Z [INFO] [VectorManager] Database disabled or API-only mode, skipping VectorDB initialization
+2025-06-20T03:29:23.972Z [INFO] [VectorManager] EmbeddingClient initialized
+2025-06-20T03:29:23.973Z [INFO] [VectorManager] VectorManager initialized successfully
+2025-06-20T03:29:24.300Z [INFO] [VectorManager] Shutting down VectorManager...
+2025-06-20T03:29:24.301Z [INFO] [VectorManager] Waiting for ongoing operations to complete...
+2025-06-20T03:29:26.318Z [INFO] [VectorManager] Flush completed: uploaded 0 vectors
+2025-06-20T03:29:26.323Z [INFO] [VectorManager] EmbeddingClient cleanup completed (no explicit shutdown needed)
+2025-06-20T03:29:26.326Z [INFO] [VectorManager] PathEncryption cleanup completed (no explicit shutdown needed)
+2025-06-20T03:29:26.328Z [INFO] [VectorManager] VectorManager shutdown completed

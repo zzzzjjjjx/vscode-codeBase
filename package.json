@@ -1,0 +1,168 @@
+{
+  "publisher": "zk",
+  "name": "test-electron-treesitter",
+  "displayName": "智能代码分块工具",
+  "description": "智能代码分块工具 - VS Code 扩展版本",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+    "onStartupFinished"
+  ],
+  "main": "./dist/extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "test-electron-treesitter.helloWorld",
+        "title": "Hello World"
+      },
+      {
+        "command": "test-electron-treesitter.chunkCode",
+        "title": "开始代码分块",
+        "category": "代码分块器"
+      },
+      {
+        "command": "test-electron-treesitter.checkProgress",
+        "title": "查看分块进度",
+        "category": "代码分块器"
+      },
+      {
+        "command": "test-electron-treesitter.configure",
+        "title": "配置代码分块器",
+        "category": "代码分块器"
+      },
+      {
+        "command": "test-electron-treesitter.clearCache",
+        "title": "清除缓存数据",
+        "category": "代码分块器"
+      },
+      {
+        "command": "test-electron-treesitter.deleteCollection",
+        "title": "删除云端Collection",
+        "category": "代码分块器"
+      },
+      {
+        "command": "test-electron-treesitter.searchCode",
+        "title": "智能代码搜索",
+        "category": "代码分块器"
+      },
+      {
+        "command": "test-electron-treesitter.cacheStats",
+        "title": "查看索引缓存统计",
+        "category": "代码分块器"
+      },
+      {
+        "command": "test-electron-treesitter.clearIndexCache",
+        "title": "清除索引缓存",
+        "category": "代码分块器"
+      },
+      {
+        "command": "test-electron-treesitter.networkPerformance",
+        "title": "生成网络性能报告",
+        "category": "代码分块器"
+      },
+      {
+        "command": "test-electron-treesitter.clearNetworkData",
+        "title": "清除网络性能数据",
+        "category": "代码分块器"
+      }
+    ],
+    "configuration": {
+      "title": "代码分块器",
+      "properties": {
+        "codeChunker.userId": {
+          "type": "string",
+          "default": "",
+          "description": "用户ID"
+        },
+        "codeChunker.deviceId": {
+          "type": "string",
+          "default": "",
+          "description": "设备ID"
+        },
+        "codeChunker.token": {
+          "type": "string",
+          "default": "",
+          "description": "访问令牌"
+        },
+        "codeChunker.ignorePatterns": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": [
+            "node_modules/**",
+            ".git/**",
+            ".vscode/**",
+            "dist/**",
+            "build/**",
+            "out/**",
+            "coverage/**",
+            "*.log",
+            "*.tmp",
+            "*.cache",
+            "*.map",
+            ".DS_Store",
+            "Thumbs.db",
+            ".env",
+            ".env.local",
+            ".env.development.local",
+            ".env.test.local",
+            ".env.production.local"
+          ],
+          "description": "忽略的文件和目录模式"
+        }
+      }
+    }
+  },
+  "scripts": {
+    "vscode:prepublish": "npm run package",
+    "compile": "webpack",
+    "watch": "webpack --watch",
+    "package": "webpack --mode production --devtool hidden-source-map",
+    "compile-tests": "tsc -p . --outDir out",
+    "watch-tests": "tsc -p . -w --outDir out",
+    "pretest": "npm run compile-tests && npm run compile && npm run lint",
+    "lint": "eslint src",
+    "test": "vscode-test",
+    "test:chunker": "jest --detectOpenHandles --forceExit",
+    "test:comprehensive": "jest tests/comprehensive.test.js --detectOpenHandles --forceExit",
+    "test:database": "jest tests/database.test.js --detectOpenHandles --forceExit"
+  },
+  "dependencies": {
+    "axios": "^1.10.0",
+    "express": "^4.21.2",
+    "fs-extra": "^11.2.0",
+    "minimatch": "^9.0.3",
+    "sqlite3": "^5.1.7",
+    "tree-sitter": "^0.21.1",
+    "tree-sitter-c-sharp": "^0.23.1",
+    "tree-sitter-python": "^0.21.0",
+    "yaml": "^2.4.0"
+  },
+  "devDependencies": {
+    "@types/mocha": "^10.0.10",
+    "@types/node": "^20.0.0",
+    "@types/vscode": "^1.92.0",
+    "@typescript-eslint/eslint-plugin": "^8.31.1",
+    "@typescript-eslint/parser": "^8.31.1",
+    "@vscode/test-cli": "^0.0.10",
+    "@vscode/test-electron": "^2.5.2",
+    "eslint": "^9.25.1",
+    "jest": "^29.0.0",
+    "nodemon": "^3.0.0",
+    "ts-loader": "^9.5.2",
+    "typescript": "^5.8.3",
+    "webpack": "^5.99.7",
+    "webpack-cli": "^6.0.1"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "testTimeout": 30000,
+    "verbose": true
+  }
+}

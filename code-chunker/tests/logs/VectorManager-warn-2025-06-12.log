@@ -1,0 +1,9 @@
+2025-06-12T01:19:15.830Z [WARN] [VectorManager] VectorManager is already shutting down
+2025-06-12T01:19:46.634Z [WARN] [VectorManager] VectorManager is already shutting down
+2025-06-12T01:30:37.569Z [WARN] [VectorManager] VectorManager is already shutting down
+2025-06-12T01:32:00.314Z [WARN] [VectorManager] VectorManager is already shutting down
+2025-06-12T01:33:24.864Z [WARN] [VectorManager] VectorManager is already shutting down
+2025-06-12T02:11:01.267Z [WARN] [VectorManager] VectorManager is already shutting down
+2025-06-12T02:27:54.672Z [WARN] [VectorManager] Security config not found, skipping PathEncryption
+2025-06-12T02:27:54.672Z [WARN] [VectorManager] Cache config not found, skipping CacheManager
+2025-06-12T02:27:54.686Z [WARN] [VectorManager] VectorManager is already shutting down

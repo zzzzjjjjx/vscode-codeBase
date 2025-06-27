@@ -1,0 +1,75 @@
+{
+  "batchInfo": {
+    "batchId": "06589e01",
+    "timestamp": "2025-06-11T08:27:35.704Z",
+    "chunkCount": 3,
+    "userId": "test-user-001",
+    "deviceId": "test-device-001"
+  },
+  "embeddingOptions": {
+    "uniqueId": "test-user-001-test-device-001-1749630455704",
+    "parserVersion": "1.0.0",
+    "processingMode": "sync"
+  },
+  "codeChunks": [
+    {
+      "chunkId": "README_04c6e90f_121-135_mbrosll7_8",
+      "status": "failed",
+      "error": "Processing error: VectorManager is shutting down",
+      "filePath": "README.md",
+      "fileName": "README.md",
+      "language": "unknown",
+      "startLine": 121,
+      "endLine": 135,
+      "content": "success = process_workspace(\r\n    user_id=\"user123\",\r\n    device_id=\"device456\", \r\n    workspace_path=\"/path/to/your/project\",\r\n    token=\"your_auth_token\",\r\n    config=config\r\n)\r\n```\r\n\r\n### 高级用法示例\r\n\r\n```python\r\nfrom chunker.main import CodeChunker\r\n\r\n# 使用 CodeChunker 类进行更细粒度的控制\r",
+      "parser": "readline_parser",
+      "type": "default"
+    },
+    {
+      "chunkId": "README_04c6e90f_136-150_mbrosll7_9",
+      "status": "failed",
+      "error": "Processing error: VectorManager is shutting down",
+      "filePath": "README.md",
+      "fileName": "README.md",
+      "language": "unknown",
+      "startLine": 136,
+      "endLine": 150,
+      "content": "chunker = CodeChunker(config=\"custom_config.yaml\")\r\n\r\n# 可以多次调用处理不同的工作空间\r\nworkspaces = [\r\n    \"/path/to/project1\",\r\n    \"/path/to/project2\", \r\n    \"/path/to/project3\"\r\n]\r\n\r\nfor workspace in workspaces:\r\n    success = chunker.process_workspace(\r\n        user_id=\"user123\",\r\n        device_id=\"device456\",\r\n        workspace_path=workspace,\r\n        token=\"your_auth_token\"\r",
+      "parser": "readline_parser",
+      "type": "default"
+    },
+    {
+      "chunkId": "README_04c6e90f_151-165_mbrosll7_10",
+      "status": "failed",
+      "error": "Processing error: VectorManager is shutting down",
+      "filePath": "README.md",
+      "fileName": "README.md",
+      "language": "unknown",
+      "startLine": 151,
+      "endLine": 165,
+      "content": "    )\r\n    print(f\"Workspace {workspace}: {'Success' if success else 'Failed'}\")\r\n```\r\n\r\n## ⚙️ 配置说明\r\n\r\n### config.yaml 完整示例\r\n\r\n```yaml\r\n# 文件扫描设置\r\nignore_patterns:\r\n  - \"**/.git/**\"           # Git 仓库文件\r\n  - \"**/node_modules/**\"   # Node.js 依赖\r\n  - \"**/__pycache__/**\"    # Python 缓存文件\r\n  - \"**/.venv/**\"          # Python 虚拟环境\r",
+      "parser": "readline_parser",
+      "type": "default"
+    }
+  ],
+  "originalChunkData": [
+    {
+      "id": "README_04c6e90f_121-135_mbrosll7_8",
+      "filePath": "README.md",
+      "type": "default",
+      "contentPreview": "success = process_workspace(\r\n    user_id=\"user123\",\r\n    device_id=\"device456\", \r\n    workspace_path=\"/path/to/your/project\",\r\n    token=\"your_auth_token\",\r\n    config=config\r\n)\r\n```\r\n\r\n### 高级用法示例\r\n\r..."
+    },
+    {
+      "id": "README_04c6e90f_136-150_mbrosll7_9",
+      "filePath": "README.md",
+      "type": "default",
+      "contentPreview": "chunker = CodeChunker(config=\"custom_config.yaml\")\r\n\r\n# 可以多次调用处理不同的工作空间\r\nworkspaces = [\r\n    \"/path/to/project1\",\r\n    \"/path/to/project2\", \r\n    \"/path/to/project3\"\r\n]\r\n\r\nfor workspace in workspaces:..."
+    },
+    {
+      "id": "README_04c6e90f_151-165_mbrosll7_10",
+      "filePath": "README.md",
+      "type": "default",
+      "contentPreview": "    )\r\n    print(f\"Workspace {workspace}: {'Success' if success else 'Failed'}\")\r\n```\r\n\r\n## ⚙️ 配置说明\r\n\r\n### config.yaml 完整示例\r\n\r\n```yaml\r\n# 文件扫描设置\r\nignore_patterns:\r\n  - \"**/.git/**\"           # Git 仓库文..."
+    }
+  ]
+}

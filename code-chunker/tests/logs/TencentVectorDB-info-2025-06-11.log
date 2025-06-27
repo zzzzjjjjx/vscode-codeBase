@@ -1,0 +1,2095 @@
+2025-06-11T08:27:27.078Z [INFO] [TencentVectorDB] 初始化腾讯云向量数据库...
+2025-06-11T08:27:27.079Z [INFO] [TencentVectorDB] 获取数据库列表
+2025-06-11T08:27:27.187Z [INFO] [TencentVectorDB] 获取到 2 个数据库
+2025-06-11T08:27:27.188Z [INFO] [TencentVectorDB] 腾讯云向量数据库初始化成功
+2025-06-11T08:27:27.751Z [INFO] [TencentVectorDB] 删除集合: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:27.802Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 删除成功
+2025-06-11T08:27:30.810Z [INFO] [TencentVectorDB] 在数据库 vectordb-test 中创建集合: collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:30.876Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 创建成功
+2025-06-11T08:27:30.878Z [INFO] [TencentVectorDB] 获取数据库 vectordb-test 的集合列表
+2025-06-11T08:27:30.926Z [INFO] [TencentVectorDB] 获取到 3 个集合
+2025-06-11T08:27:31.292Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 4 个向量
+2025-06-11T08:27:31.292Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:31.358Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T08:27:31.358Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T08:27:31.359Z [INFO] [TencentVectorDB] 向量验证完成: 4/4 个向量有效
+2025-06-11T08:27:31.359Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 4 条数据
+2025-06-11T08:27:31.455Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T08:27:31.456Z [INFO] [TencentVectorDB] 批量上传完成: 4/4 个向量已上传
+2025-06-11T08:27:31.528Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 4 个向量
+2025-06-11T08:27:31.528Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:31.575Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T08:27:31.576Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T08:27:31.576Z [INFO] [TencentVectorDB] 向量验证完成: 4/4 个向量有效
+2025-06-11T08:27:31.577Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 4 条数据
+2025-06-11T08:27:31.631Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T08:27:31.631Z [INFO] [TencentVectorDB] 批量上传完成: 4/4 个向量已上传
+2025-06-11T08:27:31.709Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 3 个向量
+2025-06-11T08:27:31.709Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:31.755Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T08:27:31.756Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T08:27:31.756Z [INFO] [TencentVectorDB] 向量验证完成: 3/3 个向量有效
+2025-06-11T08:27:31.757Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 3 条数据
+2025-06-11T08:27:31.815Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T08:27:31.816Z [INFO] [TencentVectorDB] 批量上传完成: 3/3 个向量已上传
+2025-06-11T08:27:32.136Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 3 个向量
+2025-06-11T08:27:32.137Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:32.189Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T08:27:32.190Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T08:27:32.190Z [INFO] [TencentVectorDB] 向量验证完成: 3/3 个向量有效
+2025-06-11T08:27:32.190Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 3 条数据
+2025-06-11T08:27:32.245Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T08:27:32.246Z [INFO] [TencentVectorDB] 批量上传完成: 3/3 个向量已上传
+2025-06-11T08:27:32.485Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 3 个向量
+2025-06-11T08:27:32.485Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:32.536Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T08:27:32.536Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T08:27:32.537Z [INFO] [TencentVectorDB] 向量验证完成: 3/3 个向量有效
+2025-06-11T08:27:32.537Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 3 条数据
+2025-06-11T08:27:32.615Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T08:27:32.615Z [INFO] [TencentVectorDB] 批量上传完成: 3/3 个向量已上传
+2025-06-11T08:27:33.072Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 3 个向量
+2025-06-11T08:27:33.072Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:33.115Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T08:27:33.116Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T08:27:33.116Z [INFO] [TencentVectorDB] 向量验证完成: 3/3 个向量有效
+2025-06-11T08:27:33.117Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 3 条数据
+2025-06-11T08:27:33.175Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T08:27:33.176Z [INFO] [TencentVectorDB] 批量上传完成: 3/3 个向量已上传
+2025-06-11T08:27:33.259Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 3 个向量
+2025-06-11T08:27:33.259Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:33.306Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T08:27:33.306Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T08:27:33.307Z [INFO] [TencentVectorDB] 向量验证完成: 3/3 个向量有效
+2025-06-11T08:27:33.307Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 3 条数据
+2025-06-11T08:27:33.363Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T08:27:33.364Z [INFO] [TencentVectorDB] 批量上传完成: 3/3 个向量已上传
+2025-06-11T08:27:33.710Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 3 个向量
+2025-06-11T08:27:33.711Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:33.772Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T08:27:33.772Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T08:27:33.773Z [INFO] [TencentVectorDB] 向量验证完成: 3/3 个向量有效
+2025-06-11T08:27:33.773Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 3 条数据
+2025-06-11T08:27:33.835Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T08:27:33.836Z [INFO] [TencentVectorDB] 批量上传完成: 3/3 个向量已上传
+2025-06-11T08:27:34.194Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 6 个向量
+2025-06-11T08:27:34.194Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:34.235Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T08:27:34.236Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T08:27:34.236Z [INFO] [TencentVectorDB] 向量验证完成: 6/6 个向量有效
+2025-06-11T08:27:34.237Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 6 条数据
+2025-06-11T08:27:34.296Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T08:27:34.296Z [INFO] [TencentVectorDB] 批量上传完成: 6/6 个向量已上传
+2025-06-11T08:27:34.376Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 3 个向量
+2025-06-11T08:27:34.377Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:34.425Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T08:27:34.425Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T08:27:34.426Z [INFO] [TencentVectorDB] 向量验证完成: 3/3 个向量有效
+2025-06-11T08:27:34.426Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 3 条数据
+2025-06-11T08:27:34.485Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T08:27:34.486Z [INFO] [TencentVectorDB] 批量上传完成: 3/3 个向量已上传
+2025-06-11T08:27:35.153Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 4 个向量
+2025-06-11T08:27:35.153Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:35.244Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T08:27:35.245Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T08:27:35.246Z [INFO] [TencentVectorDB] 向量验证完成: 4/4 个向量有效
+2025-06-11T08:27:35.246Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 4 条数据
+2025-06-11T08:27:35.305Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T08:27:35.306Z [INFO] [TencentVectorDB] 批量上传完成: 4/4 个向量已上传
+2025-06-11T08:27:35.562Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 5 个向量
+2025-06-11T08:27:35.562Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:35.605Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T08:27:35.606Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T08:27:35.606Z [INFO] [TencentVectorDB] 向量验证完成: 5/5 个向量有效
+2025-06-11T08:27:35.607Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 5 条数据
+2025-06-11T08:27:35.666Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T08:27:35.667Z [INFO] [TencentVectorDB] 批量上传完成: 5/5 个向量已上传
+2025-06-11T08:27:35.702Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 1 个向量
+2025-06-11T08:27:35.702Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:35.746Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T08:27:35.747Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T08:27:35.748Z [INFO] [TencentVectorDB] 向量验证完成: 1/1 个向量有效
+2025-06-11T08:27:35.748Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 1 条数据
+2025-06-11T08:27:35.805Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T08:27:35.805Z [INFO] [TencentVectorDB] 批量上传完成: 1/1 个向量已上传
+2025-06-11T08:27:35.819Z [INFO] [TencentVectorDB] 关闭腾讯云向量数据库连接
+2025-06-11T08:27:41.160Z [INFO] [TencentVectorDB] 初始化腾讯云向量数据库...
+2025-06-11T08:27:41.160Z [INFO] [TencentVectorDB] 获取数据库列表
+2025-06-11T08:27:41.269Z [INFO] [TencentVectorDB] 获取到 2 个数据库
+2025-06-11T08:27:41.269Z [INFO] [TencentVectorDB] 腾讯云向量数据库初始化成功
+2025-06-11T08:27:41.796Z [INFO] [TencentVectorDB] 删除集合: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:41.855Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 删除成功
+2025-06-11T08:27:44.865Z [INFO] [TencentVectorDB] 在数据库 vectordb-test 中创建集合: collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:44.935Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 创建成功
+2025-06-11T08:27:44.936Z [INFO] [TencentVectorDB] 获取数据库 vectordb-test 的集合列表
+2025-06-11T08:27:44.985Z [INFO] [TencentVectorDB] 获取到 3 个集合
+2025-06-11T08:27:45.265Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 47 个向量
+2025-06-11T08:27:45.265Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:45.338Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T08:27:45.338Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T08:27:45.339Z [INFO] [TencentVectorDB] 向量验证完成: 47/47 个向量有效
+2025-06-11T08:27:45.340Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 47 条数据
+2025-06-11T08:27:45.631Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T08:27:45.631Z [INFO] [TencentVectorDB] 批量上传完成: 47/47 个向量已上传
+2025-06-11T08:27:45.703Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 7 个向量
+2025-06-11T08:27:45.703Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:45.754Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T08:27:45.755Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T08:27:45.755Z [INFO] [TencentVectorDB] 向量验证完成: 7/7 个向量有效
+2025-06-11T08:27:45.756Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 7 条数据
+2025-06-11T08:27:45.814Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T08:27:45.815Z [INFO] [TencentVectorDB] 批量上传完成: 7/7 个向量已上传
+2025-06-11T08:27:46.091Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 2 个向量
+2025-06-11T08:27:46.092Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:46.155Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T08:27:46.156Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T08:27:46.157Z [INFO] [TencentVectorDB] 向量验证完成: 2/2 个向量有效
+2025-06-11T08:27:46.157Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 2 条数据
+2025-06-11T08:27:46.215Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T08:27:46.215Z [INFO] [TencentVectorDB] 批量上传完成: 2/2 个向量已上传
+2025-06-11T08:27:46.736Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 3 个向量
+2025-06-11T08:27:46.737Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:46.785Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T08:27:46.786Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T08:27:46.786Z [INFO] [TencentVectorDB] 向量验证完成: 3/3 个向量有效
+2025-06-11T08:27:46.786Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 3 条数据
+2025-06-11T08:27:46.844Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T08:27:46.844Z [INFO] [TencentVectorDB] 批量上传完成: 3/3 个向量已上传
+2025-06-11T08:27:47.024Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 3 个向量
+2025-06-11T08:27:47.024Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:47.086Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T08:27:47.087Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T08:27:47.087Z [INFO] [TencentVectorDB] 向量验证完成: 3/3 个向量有效
+2025-06-11T08:27:47.088Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 3 条数据
+2025-06-11T08:27:47.147Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T08:27:47.148Z [INFO] [TencentVectorDB] 批量上传完成: 3/3 个向量已上传
+2025-06-11T08:27:47.315Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 4 个向量
+2025-06-11T08:27:47.316Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:47.410Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T08:27:47.410Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T08:27:47.411Z [INFO] [TencentVectorDB] 向量验证完成: 4/4 个向量有效
+2025-06-11T08:27:47.411Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 4 条数据
+2025-06-11T08:27:47.463Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T08:27:47.464Z [INFO] [TencentVectorDB] 批量上传完成: 4/4 个向量已上传
+2025-06-11T08:27:47.900Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 5 个向量
+2025-06-11T08:27:47.900Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:47.943Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T08:27:47.943Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T08:27:47.944Z [INFO] [TencentVectorDB] 向量验证完成: 5/5 个向量有效
+2025-06-11T08:27:47.944Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 5 条数据
+2025-06-11T08:27:48.000Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T08:27:48.001Z [INFO] [TencentVectorDB] 批量上传完成: 5/5 个向量已上传
+2025-06-11T08:27:48.070Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 4 个向量
+2025-06-11T08:27:48.071Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:48.113Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T08:27:48.114Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T08:27:48.114Z [INFO] [TencentVectorDB] 向量验证完成: 4/4 个向量有效
+2025-06-11T08:27:48.115Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 4 条数据
+2025-06-11T08:27:48.173Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T08:27:48.173Z [INFO] [TencentVectorDB] 批量上传完成: 4/4 个向量已上传
+2025-06-11T08:27:48.270Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 2 个向量
+2025-06-11T08:27:48.270Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:48.308Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T08:27:48.309Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T08:27:48.309Z [INFO] [TencentVectorDB] 向量验证完成: 2/2 个向量有效
+2025-06-11T08:27:48.310Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 2 条数据
+2025-06-11T08:27:48.365Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T08:27:48.365Z [INFO] [TencentVectorDB] 批量上传完成: 2/2 个向量已上传
+2025-06-11T08:27:48.654Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 3 个向量
+2025-06-11T08:27:48.654Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:48.705Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T08:27:48.706Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T08:27:48.707Z [INFO] [TencentVectorDB] 向量验证完成: 3/3 个向量有效
+2025-06-11T08:27:48.707Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 3 条数据
+2025-06-11T08:27:48.773Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T08:27:48.774Z [INFO] [TencentVectorDB] 批量上传完成: 3/3 个向量已上传
+2025-06-11T08:27:49.151Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 3 个向量
+2025-06-11T08:27:49.151Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:49.224Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T08:27:49.225Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T08:27:49.225Z [INFO] [TencentVectorDB] 向量验证完成: 3/3 个向量有效
+2025-06-11T08:27:49.225Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 3 条数据
+2025-06-11T08:27:49.288Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T08:27:49.289Z [INFO] [TencentVectorDB] 批量上传完成: 3/3 个向量已上传
+2025-06-11T08:27:50.678Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 6 个向量
+2025-06-11T08:27:50.678Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:50.734Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T08:27:50.735Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T08:27:50.736Z [INFO] [TencentVectorDB] 向量验证完成: 6/6 个向量有效
+2025-06-11T08:27:50.736Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 6 条数据
+2025-06-11T08:27:50.805Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T08:27:50.806Z [INFO] [TencentVectorDB] 批量上传完成: 6/6 个向量已上传
+2025-06-11T08:27:50.910Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 3 个向量
+2025-06-11T08:27:50.910Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:50.975Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T08:27:50.976Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T08:27:50.976Z [INFO] [TencentVectorDB] 向量验证完成: 3/3 个向量有效
+2025-06-11T08:27:50.976Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 3 条数据
+2025-06-11T08:27:51.044Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T08:27:51.044Z [INFO] [TencentVectorDB] 批量上传完成: 3/3 个向量已上传
+2025-06-11T08:27:51.121Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 6 个向量
+2025-06-11T08:27:51.122Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:51.185Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T08:27:51.186Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T08:27:51.187Z [INFO] [TencentVectorDB] 向量验证完成: 6/6 个向量有效
+2025-06-11T08:27:51.188Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 6 条数据
+2025-06-11T08:27:51.244Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T08:27:51.245Z [INFO] [TencentVectorDB] 批量上传完成: 6/6 个向量已上传
+2025-06-11T08:27:51.665Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 3 个向量
+2025-06-11T08:27:51.666Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:51.734Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T08:27:51.735Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T08:27:51.735Z [INFO] [TencentVectorDB] 向量验证完成: 3/3 个向量有效
+2025-06-11T08:27:51.736Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 3 条数据
+2025-06-11T08:27:51.811Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T08:27:51.811Z [INFO] [TencentVectorDB] 批量上传完成: 3/3 个向量已上传
+2025-06-11T08:27:51.855Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 4 个向量
+2025-06-11T08:27:51.855Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:51.905Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T08:27:51.906Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T08:27:51.906Z [INFO] [TencentVectorDB] 向量验证完成: 4/4 个向量有效
+2025-06-11T08:27:51.906Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 4 条数据
+2025-06-11T08:27:51.965Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T08:27:51.966Z [INFO] [TencentVectorDB] 批量上传完成: 4/4 个向量已上传
+2025-06-11T08:27:52.063Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 2 个向量
+2025-06-11T08:27:52.064Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:52.115Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T08:27:52.115Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T08:27:52.115Z [INFO] [TencentVectorDB] 向量验证完成: 2/2 个向量有效
+2025-06-11T08:27:52.116Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 2 条数据
+2025-06-11T08:27:52.175Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T08:27:52.175Z [INFO] [TencentVectorDB] 批量上传完成: 2/2 个向量已上传
+2025-06-11T08:27:52.589Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 3 个向量
+2025-06-11T08:27:52.589Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:52.629Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T08:27:52.629Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T08:27:52.629Z [INFO] [TencentVectorDB] 向量验证完成: 3/3 个向量有效
+2025-06-11T08:27:52.630Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 3 条数据
+2025-06-11T08:27:52.701Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T08:27:52.701Z [INFO] [TencentVectorDB] 批量上传完成: 3/3 个向量已上传
+2025-06-11T08:27:52.766Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 4 个向量
+2025-06-11T08:27:52.766Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:52.824Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T08:27:52.825Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T08:27:52.826Z [INFO] [TencentVectorDB] 向量验证完成: 4/4 个向量有效
+2025-06-11T08:27:52.826Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 4 条数据
+2025-06-11T08:27:52.874Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T08:27:52.874Z [INFO] [TencentVectorDB] 批量上传完成: 4/4 个向量已上传
+2025-06-11T08:27:53.089Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 2 个向量
+2025-06-11T08:27:53.090Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:53.131Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T08:27:53.131Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T08:27:53.131Z [INFO] [TencentVectorDB] 向量验证完成: 2/2 个向量有效
+2025-06-11T08:27:53.132Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 2 条数据
+2025-06-11T08:27:53.190Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T08:27:53.191Z [INFO] [TencentVectorDB] 批量上传完成: 2/2 个向量已上传
+2025-06-11T08:27:53.386Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 3 个向量
+2025-06-11T08:27:53.387Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:53.429Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T08:27:53.429Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T08:27:53.430Z [INFO] [TencentVectorDB] 向量验证完成: 3/3 个向量有效
+2025-06-11T08:27:53.430Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 3 条数据
+2025-06-11T08:27:53.483Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T08:27:53.483Z [INFO] [TencentVectorDB] 批量上传完成: 3/3 个向量已上传
+2025-06-11T08:27:53.572Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 3 个向量
+2025-06-11T08:27:53.573Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:53.617Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T08:27:53.618Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T08:27:53.618Z [INFO] [TencentVectorDB] 向量验证完成: 3/3 个向量有效
+2025-06-11T08:27:53.618Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 3 条数据
+2025-06-11T08:27:53.675Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T08:27:53.676Z [INFO] [TencentVectorDB] 批量上传完成: 3/3 个向量已上传
+2025-06-11T08:27:54.484Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 3 个向量
+2025-06-11T08:27:54.485Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:54.534Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T08:27:54.535Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T08:27:54.535Z [INFO] [TencentVectorDB] 向量验证完成: 3/3 个向量有效
+2025-06-11T08:27:54.536Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 3 条数据
+2025-06-11T08:27:54.582Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T08:27:54.583Z [INFO] [TencentVectorDB] 批量上传完成: 3/3 个向量已上传
+2025-06-11T08:27:54.788Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 3 个向量
+2025-06-11T08:27:54.789Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:54.855Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T08:27:54.855Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T08:27:54.855Z [INFO] [TencentVectorDB] 向量验证完成: 3/3 个向量有效
+2025-06-11T08:27:54.856Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 3 条数据
+2025-06-11T08:27:54.926Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T08:27:54.926Z [INFO] [TencentVectorDB] 批量上传完成: 3/3 个向量已上传
+2025-06-11T08:27:55.009Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 6 个向量
+2025-06-11T08:27:55.009Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:55.055Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T08:27:55.055Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T08:27:55.056Z [INFO] [TencentVectorDB] 向量验证完成: 6/6 个向量有效
+2025-06-11T08:27:55.056Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 6 条数据
+2025-06-11T08:27:55.115Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T08:27:55.115Z [INFO] [TencentVectorDB] 批量上传完成: 6/6 个向量已上传
+2025-06-11T08:27:55.357Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 3 个向量
+2025-06-11T08:27:55.357Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:55.415Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T08:27:55.415Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T08:27:55.416Z [INFO] [TencentVectorDB] 向量验证完成: 3/3 个向量有效
+2025-06-11T08:27:55.416Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 3 条数据
+2025-06-11T08:27:55.474Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T08:27:55.475Z [INFO] [TencentVectorDB] 批量上传完成: 3/3 个向量已上传
+2025-06-11T08:27:55.646Z [INFO] [TencentVectorDB] 执行搜索: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1, topK=20
+2025-06-11T08:27:55.646Z [INFO] [TencentVectorDB] 执行向量检索: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:55.647Z [INFO] [TencentVectorDB] 量检索请求体: {
+  "database": "vectordb-test",
+  "collection": "collection_test-user-001_test-device-001_40ed986ee22bede1",
+  "search": {
+    "vectors": [
+      [
+        -0.697265625,
+        -0.020294189453125,
+        0.56591796875,
+        -0.372802734375,
+        0.2042236328125,
+        0.30126953125,
+        -0.0122222900390625,
+        0.64697265625,
+        -0.352783203125,
+        0.355712890625,
+        0.49072265625,
+        0.46240234375,
+        -0.1412353515625,
+        0.274169921875,
+        0.75146484375,
+        0.0426025390625,
+        0.2039794921875,
+        -0.487548828125,
+        0.128173828125,
+        -0.0019426345825195312,
+        -0.132568359375,
+        -0.153564453125,
+        -0.2919921875,
+        0.27490234375,
+        0.23486328125,
+        0.607421875,
+        0.1793212890625,
+        -0.175537109375,
+        -0.1768798828125,
+        -0.3994140625,
+        -0.10150146484375,
+        0.478515625,
+        -0.245361328125,
+        -0.302734375,
+        0.72607421875,
+        0.195556640625,
+        -0.38916015625,
+        0.38720703125,
+        0.275390625,
+        -0.08441162109375,
+        -0.179443359375,
+        -0.433349609375,
+        0.298828125,
+        0.521484375,
+        -0.6083984375,
+        0.77734375,
+        0.179443359375,
+        0.71142578125,
+        0.35400390625,
+        0.005626678466796875,
+        0.22705078125,
+        -0.1143798828125,
+        0.425537109375,
+        -0.244384765625,
+        0.72021484375,
+        -0.63525390625,
+        0.13525390625,
+        0.5791015625,
+        0.51513671875,
+        -0.1624755859375,
+        0.130859375,
+        -0.11956787109375,
+        -0.283203125,
+        -0.320068359375,
+        -0.06024169921875,
+        0.335693359375,
+        -0.436767578125,
+        -0.304443359375,
+        0.005023956298828125,
+        0.708984375,
+        -0.09222412109375,
+        -0.238037109375,
+        0.441162109375,
+        -0.310791015625,
+        -0.275390625,
+        -0.3662109375,
+        0.318603515625,
+        -0.68505859375,
+        -0.264404296875,
+        -0.0406494140625,
+        0.1396484375,
+        -0.2578125,
+        -0.10552978515625,
+        -0.296142578125,
+        0.397705078125,
+        -0.42626953125,
+        -0.09503173828125,
+        -0.21142578125,
+        0.19921875,
+        -0.0531005859375,
+        -0.199462890625,
+        0.41455078125,
+        -0.26025390625,
+        -0.2017822265625,
+        0.060546875,
+        0.3017578125,
+        0.159912109375,
+        0.34130859375,
+        0.1846923828125,
+        0.1612548828125,
+        -0.378173828125,
+        -0.181396484375,
+        0.1778564453125,
+        -0.1192626953125,
+        -0.238037109375,
+        0.10498046875,
+        0.6484375,
+        0.395263671875,
+        -0.1258544921875,
+        -0.319091796875,
+        0.09326171875,
+        0.08184814453125,
+        0.40966796875,
+        -0.06561279296875,
+        -0.23828125,
+        -0.0673828125,
+        0.0538330078125,
+        0.445556640625,
+        0.283203125,
+        -0.389892578125,
+        0.1185302734375,
+        -0.189208984375,
+        -0.15771484375,
+        -0.271728515625,
+        0.25830078125,
+        0.387939453125,
+        -0.363037109375,
+        -0.0887451171875,
+        -0.0745849609375,
+        0.322509765625,
+        -0.037445068359375,
+        0.1990966796875,
+        -0.26611328125,
+        0.215576171875,
+        -0.264892578125,
+        -0.009552001953125,
+        -0.1942138671875,
+        0.027496337890625,
+        0.353759765625,
+        -0.450927734375,
+        -0.239013671875,
+        0.29248046875,
+        -0.010711669921875,
+        -0.08489990234375,
+        0.75146484375,
+        0.308349609375,
+        -0.261474609375,
+        -0.2200927734375,
+        -0.34326171875,
+        -0.1925048828125,
+        0.3994140625,
+        -0.259033203125,
+        -0.046905517578125,
+        -0.027374267578125,
+        -0.0142974853515625,
+        0.04278564453125,
+        0.57666015625,
+        0.37841796875,
+        -0.01543426513671875,
+        0.300537109375,
+        0.12335205078125,
+        -0.06396484375,
+        -0.4736328125,
+        -0.0010166168212890625,
+        -0.486083984375,
+        0.39697265625,
+        -0.044647216796875,
+        -0.12188720703125,
+        -0.1124267578125,
+        0.4677734375,
+        -0.093994140625,
+        -0.13720703125,
+        0.0290374755859375,
+        -0.07220458984375,
+        0.129150390625,
+        -0.0400390625,
+        -0.1373291015625,
+        0.263427734375,
+        -0.360107421875,
+        0.10980224609375,
+        0.269775390625,
+        0.11859130859375,
+        0.033905029296875,
+        -0.1263427734375,
+        -0.09454345703125,
+        -0.27783203125,
+        -0.24853515625,
+        0.421630859375,
+        0.25390625,
+        -0.119384765625,
+        -0.2266845703125,
+        0.0290679931640625,
+        -0.1669921875,
+        -0.0247650146484375,
+        0.280517578125,
+        0.1719970703125,
+        -0.64794921875,
+        0.47998046875,
+        -0.2252197265625,
+        -0.62158203125,
+        -0.448486328125,
+        0.5546875,
+        -0.43115234375,
+        0.350341796875,
+        0.36865234375,
+        0.29541015625,
+        -0.56494140625,
+        -0.06878662109375,
+        0.06927490234375,
+        0.6484375,
+        0.294677734375,
+        -0.06939697265625,
+        -0.305908203125,
+        0.280029296875,
+        0.3994140625,
+        0.356689453125,
+        0.0243377685546875,
+        -0.3056640625,
+        0.388916015625,
+        0.1046142578125,
+        0.0018167495727539062,
+        0.1661376953125,
+        0.37255859375,
+        0.66748046875,
+        0.34326171875,
+        0.1817626953125,
+        -0.2142333984375,
+        0.329833984375,
+        -0.325927734375,
+        0.483642578125,
+        -0.27294921875,
+        0.101318359375,
+        -0.23388671875,
+        0.312255859375,
+        0.331787109375,
+        0.7109375,
+        0.1715087890625,
+        0.383056640625,
+        0.59765625,
+        -0.1783447265625,
+        0.51513671875,
+        -0.2281494140625,
+        0.019683837890625,
+        -0.1773681640625,
+        -0.53369140625,
+        0.58642578125,
+        0.26318359375,
+        0.0178375244140625,
+        0.131103515625,
+        -0.26416015625,
+        0.049407958984375,
+        -0.38623046875,
+        -0.2257080078125,
+        0.1927490234375,
+        0.226318359375,
+        0.441650390625,
+        -0.1739501953125,
+        0.1484375,
+        0.55029296875,
+        -0.3662109375,
+        0.2548828125,
+        -0.002532958984375,
+        -0.517578125,
+        0.302001953125,
+        0.4560546875,
+        -0.0965576171875,
+        -0.234130859375,
+        0.207763671875,
+        0.339599609375,
+        0.77587890625,
+        0.2281494140625,
+        -0.1414794921875,
+        -0.219970703125,
+        -0.12109375,
+        0.448974609375,
+        0.33642578125,
+        0.4501953125,
+        -0.1949462890625,
+        -0.1556396484375,
+        0.035308837890625,
+        0.033721923828125,
+        -0.52783203125,
+        0.09869384765625,
+        0.37939453125,
+        0.2396240234375,
+        -0.76708984375,
+        -0.050750732421875,
+        -0.376953125,
+        -0.421875,
+        -0.08343505859375,
+        0.1121826171875,
+        -0.1650390625,
+        0.496337890625,
+        0.517578125,
+        0.482666015625,
+        0.453369140625,
+        -0.184814453125,
+        -0.51904296875,
+        -0.51171875,
+        -0.040740966796875,
+        0.1693115234375,
+        -0.58251953125,
+        0.41845703125,
+        0.225341796875,
+        -0.199951171875,
+        0.366943359375,
+        -0.0994873046875,
+        -0.330322265625,
+        0.005336761474609375,
+        -0.52880859375,
+        -0.06829833984375,
+        -0.228759765625,
+        -0.56201171875,
+        -0.638671875,
+        -0.130126953125,
+        -0.423583984375,
+        -0.318115234375,
+        -0.1077880859375,
+        -0.55859375,
+        -0.4296875,
+        0.01381683349609375,
+        0.72265625,
+        -0.421142578125,
+        0.1396484375,
+        -0.3994140625,
+        -0.152587890625,
+        0.168212890625,
+        -0.09149169921875,
+        0.09014892578125,
+        -0.44873046875,
+        0.0645751953125,
+        -0.1885986328125,
+        -0.06719970703125,
+        -0.1256103515625,
+        -0.0438232421875,
+        -0.1300048828125,
+        0.39111328125,
+        0.1927490234375,
+        -0.04266357421875,
+        -0.1416015625,
+        0.2042236328125,
+        0.6337890625,
+        0.469482421875,
+        0.783203125,
+        0.281982421875,
+        0.3876953125,
+        -0.170654296875,
+        -0.06048583984375,
+        -0.494140625,
+        0.08087158203125,
+        0.814453125,
+        -0.06353759765625,
+        -0.255859375,
+        0.52978515625,
+        -0.494873046875,
+        -0.1632080078125,
+        -0.7138671875,
+        0.01367950439453125,
+        -0.0716552734375,
+        0.12359619140625,
+        -0.005279541015625,
+        -0.1405029296875,
+        -0.126708984375,
+        -0.66845703125,
+        0.0256195068359375,
+        0.11279296875,
+        0.035797119140625,
+        -0.1439208984375,
+        -0.2705078125,
+        0.1474609375,
+        0.529296875,
+        0.027862548828125,
+        0.60498046875,
+        -0.58251953125,
+        -0.43212890625,
+        0.0231170654296875,
+        0.1575927734375,
+        -0.666015625,
+        0.6416015625,
+        0.0682373046875,
+        -0.3291015625,
+        0.13623046875,
+        -0.311279296875,
+        0.08831787109375,
+        -0.484375,
+        0.199951171875,
+        -0.197265625,
+        -0.0153045654296875,
+        0.10040283203125,
+        -0.2022705078125,
+        -0.80810546875,
+        0.3330078125,
+        0.034942626953125,
+        0.491455078125,
+        -0.6513671875,
+        -0.1817626953125,
+        0.279541015625,
+        0.57421875,
+        0.335205078125,
+        0.1986083984375,
+        -0.59521484375,
+        0.64013671875,
+        0.013397216796875,
+        -0.345458984375,
+        -0.109130859375,
+        0.72412109375,
+        -0.72314453125,
+        0.1734619140625,
+        -0.11041259765625,
+        -0.1287841796875,
+        0.330078125,
+        0.0016307830810546875,
+        -0.09716796875,
+        -0.357421875,
+        0.126953125,
+        0.06719970703125,
+        0.0714111328125,
+        -0.40966796875,
+        -0.55029296875,
+        0.3857421875,
+        0.197021484375,
+        -0.0498046875,
+        0.06494140625,
+        0.384521484375,
+        -0.470947265625,
+        0.54296875,
+        -0.2098388671875,
+        0.662109375,
+        -0.3115234375,
+        -0.4169921875,
+        -0.53271484375,
+        0.473876953125,
+        0.61962890625,
+        0.148193359375,
+        -0.02838134765625,
+        -0.137939453125,
+        0.26171875,
+        0.390380859375,
+        0.049835205078125,
+        0.25634765625,
+        -0.54443359375,
+        0.10137939453125,
+        -0.2188720703125,
+        0.181884765625,
+        -0.2042236328125,
+        0.0909423828125,
+        -0.24462890625,
+        0.5419921875,
+        0.6669921875,
+        -0.1968994140625,
+        -0.52783203125,
+        -0.0562744140625,
+        -0.1220703125,
+        -0.12384033203125,
+        0.54736328125,
+        0.3427734375,
+        0.62646484375,
+        0.03485107421875,
+        -0.490478515625,
+        -0.61962890625,
+        0.239013671875,
+        0.259521484375,
+        -0.38330078125,
+        0.004791259765625,
+        0.3662109375,
+        0.1400146484375,
+        -0.475341796875,
+        -0.1395263671875,
+        0.17333984375,
+        -0.1485595703125,
+        -0.48486328125,
+        0.154296875,
+        0.490478515625,
+        0.0014333724975585938,
+        -0.027923583984375,
+        0.223876953125,
+        -0.10986328125,
+        0.1080322265625,
+        0.2000732421875,
+        -0.08966064453125,
+        -0.69287109375,
+        -0.04168701171875,
+        -0.040863037109375,
+        -0.40234375,
+        0.229248046875,
+        -0.38330078125,
+        -0.10888671875,
+        -0.55615234375,
+        -0.2315673828125,
+        0.08935546875,
+        -0.12457275390625,
+        0.05401611328125,
+        0.3466796875,
+        -0.0253143310546875,
+        -0.36962890625,
+        0.385498046875,
+        0.040985107421875,
+        -0.09326171875,
+        0.083740234375,
+        -0.1455078125,
+        -0.00397491455078125,
+        0.5224609375,
+        0.54833984375,
+        -0.123291015625,
+        0.28173828125,
+        -0.09246826171875,
+        0.03662109375,
+        0.06842041015625,
+        0.28857421875,
+        -0.267333984375,
+        0.240966796875,
+        -0.33740234375,
+        0.2342529296875,
+        0.178955078125,
+        -0.346435546875,
+        -0.275634765625,
+        -0.7080078125,
+        0.286376953125,
+        -0.7294921875,
+        -0.4306640625,
+        -0.436279296875,
+        0.55712890625,
+        -0.11871337890625,
+        0.10809326171875,
+        0.2308349609375,
+        -0.7958984375,
+        0.291015625,
+        0.1466064453125,
+        -0.358154296875,
+        0.318603515625,
+        -0.51708984375,
+        0.63427734375,
+        0.42529296875,
+        -0.452392578125,
+        -0.1358642578125,
+        0.0262603759765625,
+        -0.466064453125,
+        0.388671875,
+        0.228271484375,
+        0.4794921875,
+        -0.0247650146484375,
+        0.017791748046875,
+        0.41552734375,
+        0.04913330078125,
+        0.388916015625,
+        -0.09295654296875,
+        -0.302001953125,
+        -0.1495361328125,
+        -0.293701171875,
+        -0.135498046875,
+        -0.12255859375,
+        0.322021484375,
+        -0.291748046875,
+        0.0562744140625,
+        0.2069091796875,
+        -0.432373046875,
+        -0.41357421875,
+        -0.1866455078125,
+        -0.06756591796875,
+        0.21630859375,
+        -0.66845703125,
+        -0.474609375,
+        -0.0694580078125,
+        0.190673828125,
+        -0.1619873046875,
+        -0.59375,
+        0.0020008087158203125,
+        -0.38330078125,
+        -0.052398681640625,
+        0.0312347412109375,
+        -0.476318359375,
+        -0.222412109375,
+        0.391845703125,
+        0.20703125,
+        -0.280517578125,
+        -0.6474609375,
+        -0.177978515625,
+        0.095947265625,
+        -0.46630859375,
+        -0.379638671875,
+        0.156005859375,
+        -0.0687255859375,
+        -0.036376953125,
+        -0.050689697265625,
+        -0.314453125,
+        0.0423583984375,
+        0.21142578125,
+        -0.42724609375,
+        0.7265625,
+        0.416748046875,
+        -0.450439453125,
+        0.340087890625,
+        0.48291015625,
+        0.146484375,
+        -0.371337890625,
+        -0.165771484375,
+        -0.5439453125,
+        -0.04730224609375,
+        0.051361083984375,
+        -0.3056640625,
+        0.311279296875,
+        0.57275390625,
+        0.5302734375,
+        0.2315673828125,
+        -0.7119140625,
+        -0.29443359375,
+        0.71142578125,
+        0.473876953125,
+        0.404541015625,
+        -0.293212890625,
+        0.0186004638671875,
+        0.146240234375,
+        0.281494140625,
+        0.193359375,
+        -0.3193359375,
+        -0.325927734375,
+        0.374755859375,
+        0.5341796875,
+        0.35791015625,
+        0.37939453125,
+        0.22314453125,
+        -0.10150146484375,
+        -0.0799560546875,
+        -0.57666015625,
+        -0.1536865234375,
+        0.0306854248046875,
+        0.39306640625,
+        -0.0899658203125,
+        0.59326171875,
+        -0.1851806640625,
+        0.1434326171875,
+        -0.0213165283203125,
+        0.52587890625,
+        -0.3759765625,
+        -0.17236328125,
+        0.06475830078125,
+        -0.333740234375,
+        0.268798828125,
+        0.0218658447265625,
+        -0.67626953125,
+        0.489013671875,
+        -0.446533203125,
+        0.00952911376953125,
+        -0.2420654296875,
+        -0.31640625,
+        -0.421142578125,
+        0.314697265625,
+        0.06787109375,
+        -0.7109375,
+        -0.12298583984375,
+        0.0947265625,
+        0.339599609375,
+        -0.458740234375,
+        -0.442626953125,
+        0.1953125,
+        0.417724609375,
+        0.326171875,
+        0.485107421875,
+        -0.345458984375,
+        -0.260498046875,
+        -0.0009570121765136719,
+        -0.298583984375,
+        -0.08868408203125,
+        0.35595703125,
+        -0.051605224609375,
+        -0.29541015625,
+        0.0975341796875,
+        0.1435546875,
+        0.2271728515625,
+        -0.266357421875,
+        -0.491943359375,
+        0.4404296875,
+        0.5078125,
+        -0.035400390625,
+        0.0142822265625,
+        -0.1728515625,
+        0.1102294921875,
+        0.253173828125,
+        0.420654296875,
+        -0.08746337890625,
+        -0.1260986328125,
+        0.44677734375,
+        0.1495361328125,
+        -0.280029296875,
+        0.05841064453125,
+        0.11090087890625,
+        -0.5625,
+        -0.056243896484375,
+        -0.08978271484375,
+        -0.27294921875,
+        0.1666259765625,
+        -0.1495361328125,
+        0.3408203125,
+        -0.394287109375,
+        -0.031951904296875,
+        -0.302001953125,
+        0.59619140625,
+        -0.1949462890625,
+        0.0119781494140625,
+        0.19287109375,
+        0.43896484375,
+        -0.2386474609375,
+        0.16845703125,
+        0.46044921875,
+        0.1607666015625,
+        0.07562255859375,
+        -0.5107421875,
+        -0.0684814453125,
+        0.65283203125,
+        0.466796875,
+        0.525390625,
+        -0.4384765625,
+        0.1156005859375,
+        -0.05303955078125,
+        0.634765625,
+        0.1749267578125,
+        -0.456298828125,
+        0.253173828125,
+        0.447998046875,
+        0.5185546875,
+        0.11126708984375,
+        -0.0214080810546875,
+        -0.04779052734375,
+        0.01727294921875,
+        -0.6904296875,
+        0.041961669921875,
+        -0.1739501953125,
+        0.431640625,
+        -0.477783203125,
+        -0.443115234375,
+        -0.0496826171875,
+        0.40673828125,
+        0.11322021484375,
+        0.57763671875,
+        -0.64013671875,
+        0.2171630859375,
+        -0.4716796875,
+        0.0230712890625,
+        0.30615234375,
+        -0.004367828369140625,
+        0.227783203125,
+        -0.18115234375,
+        0.26025390625,
+        0.41064453125,
+        -0.3486328125,
+        -0.438232421875,
+        -0.182373046875,
+        -0.42626953125,
+        0.51318359375,
+        -0.01285552978515625,
+        0.04193115234375,
+        0.2113037109375,
+        0.2158203125,
+        0.04962158203125,
+        0.55908203125,
+        0.50927734375,
+        0.306640625,
+        0.5224609375,
+        0.1060791015625,
+        -0.170654296875,
+        0.73828125,
+        -0.52783203125,
+        0.57470703125,
+        0.26806640625,
+        -0.46484375,
+        -0.5009765625,
+        0.050384521484375,
+        -0.1661376953125
+      ]
+    ],
+    "params": {
+      "ef": 200
+    },
+    "limit": 20,
+    "retrieveVector": false
+  }
+}
+2025-06-11T08:27:55.725Z [INFO] [TencentVectorDB] 向量检索完成，返回 0 条结果
+2025-06-11T08:27:55.726Z [INFO] [TencentVectorDB] 找到 1 个搜索结果
+2025-06-11T08:27:55.743Z [INFO] [TencentVectorDB] 关闭腾讯云向量数据库连接
+2025-06-11T09:25:34.469Z [INFO] [TencentVectorDB] 初始化腾讯云向量数据库...
+2025-06-11T09:25:34.470Z [INFO] [TencentVectorDB] 获取数据库列表
+2025-06-11T09:25:34.729Z [INFO] [TencentVectorDB] 获取到 2 个数据库
+2025-06-11T09:25:34.729Z [INFO] [TencentVectorDB] 腾讯云向量数据库初始化成功
+2025-06-11T09:25:35.100Z [INFO] [TencentVectorDB] 删除集合: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:35.155Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 删除成功
+2025-06-11T09:25:38.160Z [INFO] [TencentVectorDB] 在数据库 vectordb-test 中创建集合: collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:38.222Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 创建成功
+2025-06-11T09:25:38.223Z [INFO] [TencentVectorDB] 获取数据库 vectordb-test 的集合列表
+2025-06-11T09:25:38.265Z [INFO] [TencentVectorDB] 获取到 3 个集合
+2025-06-11T09:25:38.540Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 50 个向量
+2025-06-11T09:25:38.541Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:38.645Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T09:25:38.645Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T09:25:38.646Z [INFO] [TencentVectorDB] 向量验证完成: 50/50 个向量有效
+2025-06-11T09:25:38.646Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 50 条数据
+2025-06-11T09:25:40.007Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T09:25:40.008Z [INFO] [TencentVectorDB] 批量上传完成: 50/50 个向量已上传
+2025-06-11T09:25:40.021Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 40 个向量
+2025-06-11T09:25:40.022Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:40.065Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T09:25:40.066Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T09:25:40.067Z [INFO] [TencentVectorDB] 向量验证完成: 40/40 个向量有效
+2025-06-11T09:25:40.067Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 40 条数据
+2025-06-11T09:25:40.675Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T09:25:40.676Z [INFO] [TencentVectorDB] 批量上传完成: 40/40 个向量已上传
+2025-06-11T09:25:40.863Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 18 个向量
+2025-06-11T09:25:40.864Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:40.906Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T09:25:40.907Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T09:25:40.908Z [INFO] [TencentVectorDB] 向量验证完成: 18/18 个向量有效
+2025-06-11T09:25:40.908Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 18 条数据
+2025-06-11T09:25:41.126Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T09:25:41.126Z [INFO] [TencentVectorDB] 批量上传完成: 18/18 个向量已上传
+2025-06-11T09:25:41.228Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 6 个向量
+2025-06-11T09:25:41.228Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:41.275Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T09:25:41.276Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T09:25:41.276Z [INFO] [TencentVectorDB] 向量验证完成: 6/6 个向量有效
+2025-06-11T09:25:41.277Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 6 条数据
+2025-06-11T09:25:41.376Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T09:25:41.377Z [INFO] [TencentVectorDB] 批量上传完成: 6/6 个向量已上传
+2025-06-11T09:25:41.900Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 3 个向量
+2025-06-11T09:25:41.900Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:41.946Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T09:25:41.946Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T09:25:41.947Z [INFO] [TencentVectorDB] 向量验证完成: 3/3 个向量有效
+2025-06-11T09:25:41.947Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 3 条数据
+2025-06-11T09:25:42.006Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T09:25:42.006Z [INFO] [TencentVectorDB] 批量上传完成: 3/3 个向量已上传
+2025-06-11T09:25:42.189Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 3 个向量
+2025-06-11T09:25:42.189Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:42.256Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T09:25:42.257Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T09:25:42.257Z [INFO] [TencentVectorDB] 向量验证完成: 3/3 个向量有效
+2025-06-11T09:25:42.257Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 3 条数据
+2025-06-11T09:25:42.320Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T09:25:42.321Z [INFO] [TencentVectorDB] 批量上传完成: 3/3 个向量已上传
+2025-06-11T09:25:42.479Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 6 个向量
+2025-06-11T09:25:42.480Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:42.526Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T09:25:42.527Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T09:25:42.527Z [INFO] [TencentVectorDB] 向量验证完成: 6/6 个向量有效
+2025-06-11T09:25:42.527Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 6 条数据
+2025-06-11T09:25:42.626Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T09:25:42.626Z [INFO] [TencentVectorDB] 批量上传完成: 6/6 个向量已上传
+2025-06-11T09:25:42.849Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 3 个向量
+2025-06-11T09:25:42.849Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:42.895Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T09:25:42.896Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T09:25:42.896Z [INFO] [TencentVectorDB] 向量验证完成: 3/3 个向量有效
+2025-06-11T09:25:42.896Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 3 条数据
+2025-06-11T09:25:42.956Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T09:25:42.957Z [INFO] [TencentVectorDB] 批量上传完成: 3/3 个向量已上传
+2025-06-11T09:25:43.806Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 3 个向量
+2025-06-11T09:25:43.806Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:43.855Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T09:25:43.856Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T09:25:43.857Z [INFO] [TencentVectorDB] 向量验证完成: 3/3 个向量有效
+2025-06-11T09:25:43.857Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 3 条数据
+2025-06-11T09:25:43.925Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T09:25:43.926Z [INFO] [TencentVectorDB] 批量上传完成: 3/3 个向量已上传
+2025-06-11T09:25:44.031Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 3 个向量
+2025-06-11T09:25:44.032Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:44.077Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T09:25:44.077Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T09:25:44.078Z [INFO] [TencentVectorDB] 向量验证完成: 3/3 个向量有效
+2025-06-11T09:25:44.078Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 3 条数据
+2025-06-11T09:25:44.168Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T09:25:44.168Z [INFO] [TencentVectorDB] 批量上传完成: 3/3 个向量已上传
+2025-06-11T09:25:44.270Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 5 个向量
+2025-06-11T09:25:44.270Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:44.337Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T09:25:44.337Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T09:25:44.338Z [INFO] [TencentVectorDB] 向量验证完成: 5/5 个向量有效
+2025-06-11T09:25:44.338Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 5 条数据
+2025-06-11T09:25:44.435Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T09:25:44.436Z [INFO] [TencentVectorDB] 批量上传完成: 5/5 个向量已上传
+2025-06-11T09:25:44.834Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 4 个向量
+2025-06-11T09:25:44.835Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:44.875Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T09:25:44.876Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T09:25:44.876Z [INFO] [TencentVectorDB] 向量验证完成: 4/4 个向量有效
+2025-06-11T09:25:44.877Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 4 条数据
+2025-06-11T09:25:44.935Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T09:25:44.936Z [INFO] [TencentVectorDB] 批量上传完成: 4/4 个向量已上传
+2025-06-11T09:25:45.018Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 3 个向量
+2025-06-11T09:25:45.018Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:45.069Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T09:25:45.069Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T09:25:45.069Z [INFO] [TencentVectorDB] 向量验证完成: 3/3 个向量有效
+2025-06-11T09:25:45.070Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 3 条数据
+2025-06-11T09:25:45.125Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T09:25:45.126Z [INFO] [TencentVectorDB] 批量上传完成: 3/3 个向量已上传
+2025-06-11T09:25:45.800Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 3 个向量
+2025-06-11T09:25:45.801Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:45.855Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T09:25:45.856Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T09:25:45.856Z [INFO] [TencentVectorDB] 向量验证完成: 3/3 个向量有效
+2025-06-11T09:25:45.856Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 3 条数据
+2025-06-11T09:25:45.915Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T09:25:45.916Z [INFO] [TencentVectorDB] 批量上传完成: 3/3 个向量已上传
+2025-06-11T09:25:46.072Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 3 个向量
+2025-06-11T09:25:46.073Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:46.166Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T09:25:46.167Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T09:25:46.167Z [INFO] [TencentVectorDB] 向量验证完成: 3/3 个向量有效
+2025-06-11T09:25:46.167Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 3 条数据
+2025-06-11T09:25:46.234Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T09:25:46.235Z [INFO] [TencentVectorDB] 批量上传完成: 3/3 个向量已上传
+2025-06-11T09:25:46.313Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 7 个向量
+2025-06-11T09:25:46.314Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:46.356Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T09:25:46.357Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T09:25:46.358Z [INFO] [TencentVectorDB] 向量验证完成: 7/7 个向量有效
+2025-06-11T09:25:46.359Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 7 条数据
+2025-06-11T09:25:46.475Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T09:25:46.476Z [INFO] [TencentVectorDB] 批量上传完成: 7/7 个向量已上传
+2025-06-11T09:25:46.620Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 2 个向量
+2025-06-11T09:25:46.621Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:46.665Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T09:25:46.666Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T09:25:46.666Z [INFO] [TencentVectorDB] 向量验证完成: 2/2 个向量有效
+2025-06-11T09:25:46.666Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 2 条数据
+2025-06-11T09:25:46.725Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T09:25:46.726Z [INFO] [TencentVectorDB] 批量上传完成: 2/2 个向量已上传
+2025-06-11T09:25:46.874Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 3 个向量
+2025-06-11T09:25:46.875Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:46.936Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T09:25:46.936Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T09:25:46.936Z [INFO] [TencentVectorDB] 向量验证完成: 3/3 个向量有效
+2025-06-11T09:25:46.937Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 3 条数据
+2025-06-11T09:25:46.995Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T09:25:46.996Z [INFO] [TencentVectorDB] 批量上传完成: 3/3 个向量已上传
+2025-06-11T09:25:47.860Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 3 个向量
+2025-06-11T09:25:47.860Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:47.923Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T09:25:47.924Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T09:25:47.924Z [INFO] [TencentVectorDB] 向量验证完成: 3/3 个向量有效
+2025-06-11T09:25:47.924Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 3 条数据
+2025-06-11T09:25:47.985Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T09:25:47.986Z [INFO] [TencentVectorDB] 批量上传完成: 3/3 个向量已上传
+2025-06-11T09:25:48.121Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 4 个向量
+2025-06-11T09:25:48.121Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:48.225Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T09:25:48.226Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T09:25:48.226Z [INFO] [TencentVectorDB] 向量验证完成: 4/4 个向量有效
+2025-06-11T09:25:48.226Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 4 条数据
+2025-06-11T09:25:48.293Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T09:25:48.294Z [INFO] [TencentVectorDB] 批量上传完成: 4/4 个向量已上传
+2025-06-11T09:25:49.369Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 5 个向量
+2025-06-11T09:25:49.370Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:49.411Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T09:25:49.411Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T09:25:49.412Z [INFO] [TencentVectorDB] 向量验证完成: 5/5 个向量有效
+2025-06-11T09:25:49.412Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 5 条数据
+2025-06-11T09:25:49.505Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T09:25:49.505Z [INFO] [TencentVectorDB] 批量上传完成: 5/5 个向量已上传
+2025-06-11T09:25:49.693Z [INFO] [TencentVectorDB] 开始批量上传: test-user-001_test-device-001_40ed986ee22bede1, 3 个向量
+2025-06-11T09:25:49.694Z [INFO] [TencentVectorDB] 查询集合详情: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:49.734Z [INFO] [TencentVectorDB] 获取集合 collection_test-user-001_test-device-001_40ed986ee22bede1 详情成功
+2025-06-11T09:25:49.734Z [INFO] [TencentVectorDB] 集合 collection_test-user-001_test-device-001_40ed986ee22bede1 已存在，检查是否需要重新创建...
+2025-06-11T09:25:49.735Z [INFO] [TencentVectorDB] 向量验证完成: 3/3 个向量有效
+2025-06-11T09:25:49.735Z [INFO] [TencentVectorDB] 向集合 vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1 写入 3 条数据
+2025-06-11T09:25:49.780Z [INFO] [TencentVectorDB] 执行搜索: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1, topK=20
+2025-06-11T09:25:49.781Z [INFO] [TencentVectorDB] 执行向量检索: vectordb-test.collection_test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:49.781Z [INFO] [TencentVectorDB] 量检索请求体: {
+  "database": "vectordb-test",
+  "collection": "collection_test-user-001_test-device-001_40ed986ee22bede1",
+  "search": {
+    "vectors": [
+      [
+        -0.697265625,
+        -0.020294189453125,
+        0.56591796875,
+        -0.372802734375,
+        0.2042236328125,
+        0.30126953125,
+        -0.0122222900390625,
+        0.64697265625,
+        -0.352783203125,
+        0.355712890625,
+        0.49072265625,
+        0.46240234375,
+        -0.1412353515625,
+        0.274169921875,
+        0.75146484375,
+        0.0426025390625,
+        0.2039794921875,
+        -0.487548828125,
+        0.128173828125,
+        -0.0019426345825195312,
+        -0.132568359375,
+        -0.153564453125,
+        -0.2919921875,
+        0.27490234375,
+        0.23486328125,
+        0.607421875,
+        0.1793212890625,
+        -0.175537109375,
+        -0.1768798828125,
+        -0.3994140625,
+        -0.10150146484375,
+        0.478515625,
+        -0.245361328125,
+        -0.302734375,
+        0.72607421875,
+        0.195556640625,
+        -0.38916015625,
+        0.38720703125,
+        0.275390625,
+        -0.08441162109375,
+        -0.179443359375,
+        -0.433349609375,
+        0.298828125,
+        0.521484375,
+        -0.6083984375,
+        0.77734375,
+        0.179443359375,
+        0.71142578125,
+        0.35400390625,
+        0.005626678466796875,
+        0.22705078125,
+        -0.1143798828125,
+        0.425537109375,
+        -0.244384765625,
+        0.72021484375,
+        -0.63525390625,
+        0.13525390625,
+        0.5791015625,
+        0.51513671875,
+        -0.1624755859375,
+        0.130859375,
+        -0.11956787109375,
+        -0.283203125,
+        -0.320068359375,
+        -0.06024169921875,
+        0.335693359375,
+        -0.436767578125,
+        -0.304443359375,
+        0.005023956298828125,
+        0.708984375,
+        -0.09222412109375,
+        -0.238037109375,
+        0.441162109375,
+        -0.310791015625,
+        -0.275390625,
+        -0.3662109375,
+        0.318603515625,
+        -0.68505859375,
+        -0.264404296875,
+        -0.0406494140625,
+        0.1396484375,
+        -0.2578125,
+        -0.10552978515625,
+        -0.296142578125,
+        0.397705078125,
+        -0.42626953125,
+        -0.09503173828125,
+        -0.21142578125,
+        0.19921875,
+        -0.0531005859375,
+        -0.199462890625,
+        0.41455078125,
+        -0.26025390625,
+        -0.2017822265625,
+        0.060546875,
+        0.3017578125,
+        0.159912109375,
+        0.34130859375,
+        0.1846923828125,
+        0.1612548828125,
+        -0.378173828125,
+        -0.181396484375,
+        0.1778564453125,
+        -0.1192626953125,
+        -0.238037109375,
+        0.10498046875,
+        0.6484375,
+        0.395263671875,
+        -0.1258544921875,
+        -0.319091796875,
+        0.09326171875,
+        0.08184814453125,
+        0.40966796875,
+        -0.06561279296875,
+        -0.23828125,
+        -0.0673828125,
+        0.0538330078125,
+        0.445556640625,
+        0.283203125,
+        -0.389892578125,
+        0.1185302734375,
+        -0.189208984375,
+        -0.15771484375,
+        -0.271728515625,
+        0.25830078125,
+        0.387939453125,
+        -0.363037109375,
+        -0.0887451171875,
+        -0.0745849609375,
+        0.322509765625,
+        -0.037445068359375,
+        0.1990966796875,
+        -0.26611328125,
+        0.215576171875,
+        -0.264892578125,
+        -0.009552001953125,
+        -0.1942138671875,
+        0.027496337890625,
+        0.353759765625,
+        -0.450927734375,
+        -0.239013671875,
+        0.29248046875,
+        -0.010711669921875,
+        -0.08489990234375,
+        0.75146484375,
+        0.308349609375,
+        -0.261474609375,
+        -0.2200927734375,
+        -0.34326171875,
+        -0.1925048828125,
+        0.3994140625,
+        -0.259033203125,
+        -0.046905517578125,
+        -0.027374267578125,
+        -0.0142974853515625,
+        0.04278564453125,
+        0.57666015625,
+        0.37841796875,
+        -0.01543426513671875,
+        0.300537109375,
+        0.12335205078125,
+        -0.06396484375,
+        -0.4736328125,
+        -0.0010166168212890625,
+        -0.486083984375,
+        0.39697265625,
+        -0.044647216796875,
+        -0.12188720703125,
+        -0.1124267578125,
+        0.4677734375,
+        -0.093994140625,
+        -0.13720703125,
+        0.0290374755859375,
+        -0.07220458984375,
+        0.129150390625,
+        -0.0400390625,
+        -0.1373291015625,
+        0.263427734375,
+        -0.360107421875,
+        0.10980224609375,
+        0.269775390625,
+        0.11859130859375,
+        0.033905029296875,
+        -0.1263427734375,
+        -0.09454345703125,
+        -0.27783203125,
+        -0.24853515625,
+        0.421630859375,
+        0.25390625,
+        -0.119384765625,
+        -0.2266845703125,
+        0.0290679931640625,
+        -0.1669921875,
+        -0.0247650146484375,
+        0.280517578125,
+        0.1719970703125,
+        -0.64794921875,
+        0.47998046875,
+        -0.2252197265625,
+        -0.62158203125,
+        -0.448486328125,
+        0.5546875,
+        -0.43115234375,
+        0.350341796875,
+        0.36865234375,
+        0.29541015625,
+        -0.56494140625,
+        -0.06878662109375,
+        0.06927490234375,
+        0.6484375,
+        0.294677734375,
+        -0.06939697265625,
+        -0.305908203125,
+        0.280029296875,
+        0.3994140625,
+        0.356689453125,
+        0.0243377685546875,
+        -0.3056640625,
+        0.388916015625,
+        0.1046142578125,
+        0.0018167495727539062,
+        0.1661376953125,
+        0.37255859375,
+        0.66748046875,
+        0.34326171875,
+        0.1817626953125,
+        -0.2142333984375,
+        0.329833984375,
+        -0.325927734375,
+        0.483642578125,
+        -0.27294921875,
+        0.101318359375,
+        -0.23388671875,
+        0.312255859375,
+        0.331787109375,
+        0.7109375,
+        0.1715087890625,
+        0.383056640625,
+        0.59765625,
+        -0.1783447265625,
+        0.51513671875,
+        -0.2281494140625,
+        0.019683837890625,
+        -0.1773681640625,
+        -0.53369140625,
+        0.58642578125,
+        0.26318359375,
+        0.0178375244140625,
+        0.131103515625,
+        -0.26416015625,
+        0.049407958984375,
+        -0.38623046875,
+        -0.2257080078125,
+        0.1927490234375,
+        0.226318359375,
+        0.441650390625,
+        -0.1739501953125,
+        0.1484375,
+        0.55029296875,
+        -0.3662109375,
+        0.2548828125,
+        -0.002532958984375,
+        -0.517578125,
+        0.302001953125,
+        0.4560546875,
+        -0.0965576171875,
+        -0.234130859375,
+        0.207763671875,
+        0.339599609375,
+        0.77587890625,
+        0.2281494140625,
+        -0.1414794921875,
+        -0.219970703125,
+        -0.12109375,
+        0.448974609375,
+        0.33642578125,
+        0.4501953125,
+        -0.1949462890625,
+        -0.1556396484375,
+        0.035308837890625,
+        0.033721923828125,
+        -0.52783203125,
+        0.09869384765625,
+        0.37939453125,
+        0.2396240234375,
+        -0.76708984375,
+        -0.050750732421875,
+        -0.376953125,
+        -0.421875,
+        -0.08343505859375,
+        0.1121826171875,
+        -0.1650390625,
+        0.496337890625,
+        0.517578125,
+        0.482666015625,
+        0.453369140625,
+        -0.184814453125,
+        -0.51904296875,
+        -0.51171875,
+        -0.040740966796875,
+        0.1693115234375,
+        -0.58251953125,
+        0.41845703125,
+        0.225341796875,
+        -0.199951171875,
+        0.366943359375,
+        -0.0994873046875,
+        -0.330322265625,
+        0.005336761474609375,
+        -0.52880859375,
+        -0.06829833984375,
+        -0.228759765625,
+        -0.56201171875,
+        -0.638671875,
+        -0.130126953125,
+        -0.423583984375,
+        -0.318115234375,
+        -0.1077880859375,
+        -0.55859375,
+        -0.4296875,
+        0.01381683349609375,
+        0.72265625,
+        -0.421142578125,
+        0.1396484375,
+        -0.3994140625,
+        -0.152587890625,
+        0.168212890625,
+        -0.09149169921875,
+        0.09014892578125,
+        -0.44873046875,
+        0.0645751953125,
+        -0.1885986328125,
+        -0.06719970703125,
+        -0.1256103515625,
+        -0.0438232421875,
+        -0.1300048828125,
+        0.39111328125,
+        0.1927490234375,
+        -0.04266357421875,
+        -0.1416015625,
+        0.2042236328125,
+        0.6337890625,
+        0.469482421875,
+        0.783203125,
+        0.281982421875,
+        0.3876953125,
+        -0.170654296875,
+        -0.06048583984375,
+        -0.494140625,
+        0.08087158203125,
+        0.814453125,
+        -0.06353759765625,
+        -0.255859375,
+        0.52978515625,
+        -0.494873046875,
+        -0.1632080078125,
+        -0.7138671875,
+        0.01367950439453125,
+        -0.0716552734375,
+        0.12359619140625,
+        -0.005279541015625,
+        -0.1405029296875,
+        -0.126708984375,
+        -0.66845703125,
+        0.0256195068359375,
+        0.11279296875,
+        0.035797119140625,
+        -0.1439208984375,
+        -0.2705078125,
+        0.1474609375,
+        0.529296875,
+        0.027862548828125,
+        0.60498046875,
+        -0.58251953125,
+        -0.43212890625,
+        0.0231170654296875,
+        0.1575927734375,
+        -0.666015625,
+        0.6416015625,
+        0.0682373046875,
+        -0.3291015625,
+        0.13623046875,
+        -0.311279296875,
+        0.08831787109375,
+        -0.484375,
+        0.199951171875,
+        -0.197265625,
+        -0.0153045654296875,
+        0.10040283203125,
+        -0.2022705078125,
+        -0.80810546875,
+        0.3330078125,
+        0.034942626953125,
+        0.491455078125,
+        -0.6513671875,
+        -0.1817626953125,
+        0.279541015625,
+        0.57421875,
+        0.335205078125,
+        0.1986083984375,
+        -0.59521484375,
+        0.64013671875,
+        0.013397216796875,
+        -0.345458984375,
+        -0.109130859375,
+        0.72412109375,
+        -0.72314453125,
+        0.1734619140625,
+        -0.11041259765625,
+        -0.1287841796875,
+        0.330078125,
+        0.0016307830810546875,
+        -0.09716796875,
+        -0.357421875,
+        0.126953125,
+        0.06719970703125,
+        0.0714111328125,
+        -0.40966796875,
+        -0.55029296875,
+        0.3857421875,
+        0.197021484375,
+        -0.0498046875,
+        0.06494140625,
+        0.384521484375,
+        -0.470947265625,
+        0.54296875,
+        -0.2098388671875,
+        0.662109375,
+        -0.3115234375,
+        -0.4169921875,
+        -0.53271484375,
+        0.473876953125,
+        0.61962890625,
+        0.148193359375,
+        -0.02838134765625,
+        -0.137939453125,
+        0.26171875,
+        0.390380859375,
+        0.049835205078125,
+        0.25634765625,
+        -0.54443359375,
+        0.10137939453125,
+        -0.2188720703125,
+        0.181884765625,
+        -0.2042236328125,
+        0.0909423828125,
+        -0.24462890625,
+        0.5419921875,
+        0.6669921875,
+        -0.1968994140625,
+        -0.52783203125,
+        -0.0562744140625,
+        -0.1220703125,
+        -0.12384033203125,
+        0.54736328125,
+        0.3427734375,
+        0.62646484375,
+        0.03485107421875,
+        -0.490478515625,
+        -0.61962890625,
+        0.239013671875,
+        0.259521484375,
+        -0.38330078125,
+        0.004791259765625,
+        0.3662109375,
+        0.1400146484375,
+        -0.475341796875,
+        -0.1395263671875,
+        0.17333984375,
+        -0.1485595703125,
+        -0.48486328125,
+        0.154296875,
+        0.490478515625,
+        0.0014333724975585938,
+        -0.027923583984375,
+        0.223876953125,
+        -0.10986328125,
+        0.1080322265625,
+        0.2000732421875,
+        -0.08966064453125,
+        -0.69287109375,
+        -0.04168701171875,
+        -0.040863037109375,
+        -0.40234375,
+        0.229248046875,
+        -0.38330078125,
+        -0.10888671875,
+        -0.55615234375,
+        -0.2315673828125,
+        0.08935546875,
+        -0.12457275390625,
+        0.05401611328125,
+        0.3466796875,
+        -0.0253143310546875,
+        -0.36962890625,
+        0.385498046875,
+        0.040985107421875,
+        -0.09326171875,
+        0.083740234375,
+        -0.1455078125,
+        -0.00397491455078125,
+        0.5224609375,
+        0.54833984375,
+        -0.123291015625,
+        0.28173828125,
+        -0.09246826171875,
+        0.03662109375,
+        0.06842041015625,
+        0.28857421875,
+        -0.267333984375,
+        0.240966796875,
+        -0.33740234375,
+        0.2342529296875,
+        0.178955078125,
+        -0.346435546875,
+        -0.275634765625,
+        -0.7080078125,
+        0.286376953125,
+        -0.7294921875,
+        -0.4306640625,
+        -0.436279296875,
+        0.55712890625,
+        -0.11871337890625,
+        0.10809326171875,
+        0.2308349609375,
+        -0.7958984375,
+        0.291015625,
+        0.1466064453125,
+        -0.358154296875,
+        0.318603515625,
+        -0.51708984375,
+        0.63427734375,
+        0.42529296875,
+        -0.452392578125,
+        -0.1358642578125,
+        0.0262603759765625,
+        -0.466064453125,
+        0.388671875,
+        0.228271484375,
+        0.4794921875,
+        -0.0247650146484375,
+        0.017791748046875,
+        0.41552734375,
+        0.04913330078125,
+        0.388916015625,
+        -0.09295654296875,
+        -0.302001953125,
+        -0.1495361328125,
+        -0.293701171875,
+        -0.135498046875,
+        -0.12255859375,
+        0.322021484375,
+        -0.291748046875,
+        0.0562744140625,
+        0.2069091796875,
+        -0.432373046875,
+        -0.41357421875,
+        -0.1866455078125,
+        -0.06756591796875,
+        0.21630859375,
+        -0.66845703125,
+        -0.474609375,
+        -0.0694580078125,
+        0.190673828125,
+        -0.1619873046875,
+        -0.59375,
+        0.0020008087158203125,
+        -0.38330078125,
+        -0.052398681640625,
+        0.0312347412109375,
+        -0.476318359375,
+        -0.222412109375,
+        0.391845703125,
+        0.20703125,
+        -0.280517578125,
+        -0.6474609375,
+        -0.177978515625,
+        0.095947265625,
+        -0.46630859375,
+        -0.379638671875,
+        0.156005859375,
+        -0.0687255859375,
+        -0.036376953125,
+        -0.050689697265625,
+        -0.314453125,
+        0.0423583984375,
+        0.21142578125,
+        -0.42724609375,
+        0.7265625,
+        0.416748046875,
+        -0.450439453125,
+        0.340087890625,
+        0.48291015625,
+        0.146484375,
+        -0.371337890625,
+        -0.165771484375,
+        -0.5439453125,
+        -0.04730224609375,
+        0.051361083984375,
+        -0.3056640625,
+        0.311279296875,
+        0.57275390625,
+        0.5302734375,
+        0.2315673828125,
+        -0.7119140625,
+        -0.29443359375,
+        0.71142578125,
+        0.473876953125,
+        0.404541015625,
+        -0.293212890625,
+        0.0186004638671875,
+        0.146240234375,
+        0.281494140625,
+        0.193359375,
+        -0.3193359375,
+        -0.325927734375,
+        0.374755859375,
+        0.5341796875,
+        0.35791015625,
+        0.37939453125,
+        0.22314453125,
+        -0.10150146484375,
+        -0.0799560546875,
+        -0.57666015625,
+        -0.1536865234375,
+        0.0306854248046875,
+        0.39306640625,
+        -0.0899658203125,
+        0.59326171875,
+        -0.1851806640625,
+        0.1434326171875,
+        -0.0213165283203125,
+        0.52587890625,
+        -0.3759765625,
+        -0.17236328125,
+        0.06475830078125,
+        -0.333740234375,
+        0.268798828125,
+        0.0218658447265625,
+        -0.67626953125,
+        0.489013671875,
+        -0.446533203125,
+        0.00952911376953125,
+        -0.2420654296875,
+        -0.31640625,
+        -0.421142578125,
+        0.314697265625,
+        0.06787109375,
+        -0.7109375,
+        -0.12298583984375,
+        0.0947265625,
+        0.339599609375,
+        -0.458740234375,
+        -0.442626953125,
+        0.1953125,
+        0.417724609375,
+        0.326171875,
+        0.485107421875,
+        -0.345458984375,
+        -0.260498046875,
+        -0.0009570121765136719,
+        -0.298583984375,
+        -0.08868408203125,
+        0.35595703125,
+        -0.051605224609375,
+        -0.29541015625,
+        0.0975341796875,
+        0.1435546875,
+        0.2271728515625,
+        -0.266357421875,
+        -0.491943359375,
+        0.4404296875,
+        0.5078125,
+        -0.035400390625,
+        0.0142822265625,
+        -0.1728515625,
+        0.1102294921875,
+        0.253173828125,
+        0.420654296875,
+        -0.08746337890625,
+        -0.1260986328125,
+        0.44677734375,
+        0.1495361328125,
+        -0.280029296875,
+        0.05841064453125,
+        0.11090087890625,
+        -0.5625,
+        -0.056243896484375,
+        -0.08978271484375,
+        -0.27294921875,
+        0.1666259765625,
+        -0.1495361328125,
+        0.3408203125,
+        -0.394287109375,
+        -0.031951904296875,
+        -0.302001953125,
+        0.59619140625,
+        -0.1949462890625,
+        0.0119781494140625,
+        0.19287109375,
+        0.43896484375,
+        -0.2386474609375,
+        0.16845703125,
+        0.46044921875,
+        0.1607666015625,
+        0.07562255859375,
+        -0.5107421875,
+        -0.0684814453125,
+        0.65283203125,
+        0.466796875,
+        0.525390625,
+        -0.4384765625,
+        0.1156005859375,
+        -0.05303955078125,
+        0.634765625,
+        0.1749267578125,
+        -0.456298828125,
+        0.253173828125,
+        0.447998046875,
+        0.5185546875,
+        0.11126708984375,
+        -0.0214080810546875,
+        -0.04779052734375,
+        0.01727294921875,
+        -0.6904296875,
+        0.041961669921875,
+        -0.1739501953125,
+        0.431640625,
+        -0.477783203125,
+        -0.443115234375,
+        -0.0496826171875,
+        0.40673828125,
+        0.11322021484375,
+        0.57763671875,
+        -0.64013671875,
+        0.2171630859375,
+        -0.4716796875,
+        0.0230712890625,
+        0.30615234375,
+        -0.004367828369140625,
+        0.227783203125,
+        -0.18115234375,
+        0.26025390625,
+        0.41064453125,
+        -0.3486328125,
+        -0.438232421875,
+        -0.182373046875,
+        -0.42626953125,
+        0.51318359375,
+        -0.01285552978515625,
+        0.04193115234375,
+        0.2113037109375,
+        0.2158203125,
+        0.04962158203125,
+        0.55908203125,
+        0.50927734375,
+        0.306640625,
+        0.5224609375,
+        0.1060791015625,
+        -0.170654296875,
+        0.73828125,
+        -0.52783203125,
+        0.57470703125,
+        0.26806640625,
+        -0.46484375,
+        -0.5009765625,
+        0.050384521484375,
+        -0.1661376953125
+      ]
+    ],
+    "params": {
+      "ef": 200
+    },
+    "limit": 20,
+    "retrieveVector": false
+  }
+}
+2025-06-11T09:25:49.836Z [INFO] [TencentVectorDB] 数据写入成功
+2025-06-11T09:25:49.836Z [INFO] [TencentVectorDB] 批量上传完成: 3/3 个向量已上传
+2025-06-11T09:25:49.912Z [INFO] [TencentVectorDB] 向量检索完成，返回 0 条结果
+2025-06-11T09:25:49.913Z [INFO] [TencentVectorDB] 找到 1 个搜索结果
+2025-06-11T09:25:49.953Z [INFO] [TencentVectorDB] 关闭腾讯云向量数据库连接

@@ -1,0 +1,54 @@
+2025-06-12T01:29:09.640Z [ERROR] [TencentVectorDB] 请求失败: Request failed with status code 400
+2025-06-12T01:29:09.660Z [ERROR] [TencentVectorDB] 响应状态: 400
+2025-06-12T01:29:09.660Z [ERROR] [TencentVectorDB] 响应头: {
+  "content-length": "156",
+  "content-type": "application/json"
+}
+2025-06-12T01:29:09.662Z [ERROR] [TencentVectorDB] 响应数据: {
+  "code": 15302,
+  "msg": "Collection not exist: collection_test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1",
+  "affectedCount": 0
+}
+2025-06-12T01:30:37.146Z [ERROR] [TencentVectorDB] 请求失败: Request failed with status code 400
+2025-06-12T01:30:37.146Z [ERROR] [TencentVectorDB] 响应状态: 400
+2025-06-12T01:30:37.147Z [ERROR] [TencentVectorDB] 响应头: {
+  "content-length": "138",
+  "content-type": "application/json"
+}
+2025-06-12T01:30:37.147Z [ERROR] [TencentVectorDB] 响应数据: {
+  "code": 15302,
+  "msg": "Collection not exist: collection_test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1"
+}
+2025-06-12T01:30:37.437Z [ERROR] [TencentVectorDB] 请求失败: Request failed with status code 400
+2025-06-12T01:30:37.438Z [ERROR] [TencentVectorDB] 响应状态: 400
+2025-06-12T01:30:37.440Z [ERROR] [TencentVectorDB] 响应头: {
+  "content-length": "88",
+  "content-type": "application/json"
+}
+2025-06-12T01:30:37.442Z [ERROR] [TencentVectorDB] 响应数据: {
+  "code": 14201,
+  "msg": "query documentIds and filter must not all empty",
+  "affectedCount": 0
+}
+2025-06-12T01:32:07.729Z [ERROR] [TencentVectorDB] 请求失败: Request failed with status code 400
+2025-06-12T01:32:07.730Z [ERROR] [TencentVectorDB] 响应状态: 400
+2025-06-12T01:32:07.730Z [ERROR] [TencentVectorDB] 响应头: {
+  "content-length": "156",
+  "content-type": "application/json"
+}
+2025-06-12T01:32:07.732Z [ERROR] [TencentVectorDB] 响应数据: {
+  "code": 15302,
+  "msg": "Collection not exist: collection_test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1",
+  "affectedCount": 0
+}
+2025-06-12T02:27:35.187Z [ERROR] [TencentVectorDB] 请求失败: Request failed with status code 400
+2025-06-12T02:27:35.190Z [ERROR] [TencentVectorDB] 响应状态: 400
+2025-06-12T02:27:35.192Z [ERROR] [TencentVectorDB] 响应头: {
+  "content-length": "134",
+  "content-type": "application/json"
+}
+2025-06-12T02:27:35.195Z [ERROR] [TencentVectorDB] 响应数据: {
+  "code": 15302,
+  "msg": "Collection not exist: collection_test-delete-user-001_test-delete-device-001_40ed986ee22bede1",
+  "affectedCount": 0
+}

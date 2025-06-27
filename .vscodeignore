@@ -1,0 +1,39 @@
+.vscode/**
+.vscode-test/**
+out/**
+# 开发依赖不需要打包
+node_modules/@types/**
+node_modules/@typescript-eslint/**
+node_modules/@vscode/test-**
+node_modules/@jest/**
+node_modules/eslint/**
+node_modules/jest/**
+node_modules/mocha/**
+node_modules/webpack/**
+node_modules/webpack-cli/**
+node_modules/ts-loader/**
+node_modules/typescript/**
+node_modules/nodemon/**
+
+# 其他开发工具
+node_modules/c8/**
+node_modules/chokidar/**
+node_modules/enhanced-resolve/**
+node_modules/**/test/**
+node_modules/**/*.test.js
+node_modules/**/*.spec.js
+
+# 但是保留所有生产依赖 (这样确保不会遗漏任何runtime依赖)
+src/**
+.gitignore
+.yarnrc
+webpack.config.js
+vsc-extension-quickstart.md
+**/tsconfig.json
+**/eslint.config.mjs
+**/*.map
+**/*.ts
+**/.vscode-test.*
+
+# 🔥 确保code-chunker配置文件被包含
+!code-chunker/config/**

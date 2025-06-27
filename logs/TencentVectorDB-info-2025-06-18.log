@@ -1,0 +1,4 @@
+2025-06-18T09:15:58.353Z [INFO] [TencentVectorDB] 初始化腾讯云向量数据库...
+2025-06-18T09:15:58.354Z [INFO] [TencentVectorDB] 获取数据库列表
+2025-06-18T09:15:58.480Z [INFO] [TencentVectorDB] 获取到 2 个数据库
+2025-06-18T09:15:58.481Z [INFO] [TencentVectorDB] 腾讯云向量数据库初始化成功

@@ -1,0 +1,84 @@
+{
+  "batchInfo": {
+    "batchId": "e6676257",
+    "timestamp": "2025-06-23T11:57:19.598Z",
+    "chunkCount": 3,
+    "userId": "test_user",
+    "deviceId": "test_device"
+  },
+  "embeddingOptions": {
+    "uniqueId": "test_user-test_device-1750679839598",
+    "parserVersion": "1.0.0",
+    "processingMode": "sync"
+  },
+  "codeChunks": [
+    {
+      "chunkId": "test1_9ef56bfb_1-1_mc91koz3_0",
+      "status": "success",
+      "vector": null,
+      "compressedVector": "H4sIAB9BWWgC/w3T+1tUZQLA8bygTegKJGnm4gUHBM7MnDPz3s7BC5jitUXxUk9GUIrbkw+ul6Iw7aFM7aImmsFi4lAOMTNnZs7lPed9z+EpSkzcLlS6y7O2tka7mo8sW1ZmPuq2/gPfnz7fLpZnSeRXabLd5GvCrrLSnC9lHX1PMmmb3irv5346j+XBNFBKF6NMfgVEYGnwu/Zeup0O6JWhXH/SOMwQgUp5ZwV+hbzCH2cb3F48Bu12S5RVRZ+QGjlTf4p20oh8nrcSlS+AzyjXEAiXkbnsiG+0MC54E1Nng1YmhoqvBc5ZRDllpdtRsxtUsqesP4HKrH7+dbCApyk5bKLdyH5BESvTToBZ+g67XL2On9BWkIniXOk/bgZvAUuChVY66lV64Q1th/iOUQ3qSK4dRTfbEFkuX4ERuyaep53nT9pVk57IZQw4fw/slDrzJh9L11fDUWpV6AKsDQyXZfuEPSuUTUt0T/He4NvsLKikGfx/8l7TN6XLFJINcDgcGqo1Cb8kpR3LMEy/3z0PvwHhZKX0kvK5sfmtLSb25rozrR52UpzimWs9dLs5C81JLY6VW12sCqvyVDBUzS46pR+g62RBmulA8BvbxF/kz5P3rXO4Nfg9vaKNMlbRDnmfKJGp7i3fq+RJVFqUch6jHwmQn2lbJWO8N3ia9rCDsJupeIJVawyZvgasQxapVcbCIkW3HoVKot349FiaU0P+CheJGXmZ/O7IJOcnPtTolvbLcaMs9bwyheokR/2XMwRMLh6kH9tvyGl4jBLHHWCGL85XyLmwOtaa2Ep9dI36rru1wy3Ykn/SqWaztF/pELExWWn1yyKYrzwuT0ab9SauSjXqSFHzL4qdtlLNL3Sg1Cmg0flWRqLGuco/Uxdax6x1yU6n2VnOqovv5dOlFeYWLYwP0G3Sm05K3MQM4zxkeX+UPgyMAlsDpp/5T8h3oTblYTCQZPFc8VtW5xunlMJD7E5lRudMe1FnTmi9fUk6jmtpwnrTPUjWgAmowL4zlQ1sea11QAjwkfZpMqjf75wJ1Su9LD9QZ0VwDT8k9CX61FrJY8huGE2BBWQMH7S+CkwrjoGwNJofkZ+VhtJd076Qdzr76Xq7iYyNNhRWiKPs9WQtejoSYTOc/Ykl0KU9Wj1ZzcvR8exlEuDN7Ce+j4xQdqDj/tnj/HAp/pbNi7eEurzD+KnYQucaahDDqVfliUdsXgb6hIFkKTgEMpUuW1Sx64GN2kntGb1IuiCW8EJrWWAPjXPRelbOBQ/BKMl3Vfya+Lqvj/+gh+33jAlKTyELPOz8yB+jOq2P9uAoXcmBXEdvAQ82ErlwKlkN7+IXMDGHB9feNxYOM97QX1LnBD04au0uDDsvx9rdc+YId7NcZV0G0+2prldtIOmkQjnCG4mLHuFObNft6+6Vw1aLtyp4K7mNjE7k+AXsY0vZJ23N5j69T1giPc0/D76V+As/yn8fWCH8je7SW2IV4FOzn48Thtl70EV/P79ot+P1sBvc4ElYGulgCt1ojTfPABhf2Xaxo0C+QReQ6yjdGhSWwh/gBXsOCDOPUIW8uD20u+CqsB163Y/Bv0kTWSef0PYEK/A3oUE1y50Nr5NGUkJe99bjKmO2ue22ijzf+MR/6RdylM8Ely1Bvkdbo41EI7lnWgG66pwlm95ZTv1mkfOBcZD8U3uXD+BqgmGJe9RutSbJD6AWXG2GjN8YC432j2AxYY62SPKkLpNl7kH3azAX39Dn0S/9O3C3/wXFLCrS+sFXoG46JQu98/k5UGYLNIs86AuBLPc78WVzsXLUnIZrwKU4Dm0nP+PnyIL893kDeYAElHIQNDfCbHEjnhGMOnd4x6Oz+HfKLbEDxUGHux3dzR4lYRvzTrFSq4PDA8DN9x927kB/Nv4Q+gxuEN/WDqAcXm+8KOyz/gEHzPtCUXOS+CVSQ0jegF9TxtDnpMNKkBbIh9BO3uwy8yb7P/Oa9bIABgAA",
+      "isCompressed": true,
+      "vectorDimension": 768,
+      "stored": false,
+      "filePath": "unknown",
+      "startLine": 0,
+      "endLine": 0,
+      "language": "unknown",
+      "processingMode": "embedding_success",
+      "modelVersion": "code-embedding-v2.1"
+    },
+    {
+      "chunkId": "test2_783c60d4_1-1_mc91koz5_0",
+      "status": "success",
+      "vector": null,
+      "compressedVector": "H4sIAB9BWWgC/w3TCVcVVQAA4CMZZFmBvgwDDZGHPN4b38ybe+feO4rLUSnQXFLTgsoF1DKOERqKabnnlpzIlgMZESjbe8xy5869o1FYaoiHzFQ6dkxST2Rmi3VazLbvP3zQa45tRztf/UjO14R8UJ9nTUcbI8W+Kj6icSTZFP1rxBF37mvjtVhmjW87L0UzwA1ghHuji5xqtwfkad85bzGG9+PEg9n4CdzHJ/Birxf+rOR6F4htNpN+pNyojW1wsD6RH4EzhRZIIY9rf7rX8CnndmOrebItjCvYXaxTGq13Zo128/EgusosUGhWNR/BqfyiWsGLgMIn6y32BZrg9mnz7XPWLyg5MocaTpq2pPkHUBHJU3NEHafonuGYz0KlZBX+MNM8kGhd1i6Dnto35baRe9Ee8pvW4aQFb1GOU8jjmzX/Wvc+VmAvVgukf9Qf6BZcEGitPx85NGorjqOPsR2oPpCSFR7zrNXAg7DUqnMGkLdZA9hJq2oum4dQFL9sprEXgxE7jpWCaV4t+hmokUp7rf56a0V0UOx9q849Zs/iKkweOclYD1e7U/eV7It329jJA/7IX7hI+yo0Rj6R3WCO1f9sLRIBWGtM5g+Ll8hTTj4ai9dkX7XPmFX0MPkDzANrhD+2E1eHx27K9a41/yENZjHpJgriTcEe2cdTScyJkA+sa7gwdgmlwVTykH4PHEfW8cXa9awUNb7F4SvI11p/+WCWbH9hLxe73GdDZnS6vp3n+fP1JPYAei/6rdtP/ZwMsQ03DkroS3JT9YF1wQFeiBxV5yivRN7lM6xFtaWeitc214AUkSaumzZtpAkyc9sJMu/Tk8j9crq8W9wExcpnGavVHPU362NpW9NPNF0jbpJfDrnimIhJlfyOA5K8wdvsFbFv9CQeH02kZU4iulMpUY6L8sB+0ateh+y926OvKVewm1mutocvEAmX6FClTYutNqleVCpCH6om8Rw982Cjcd7bbCJWPvoGqgrH2ALRBVsjE8EZ+6rVP30b2ePmZbQ4W+hekst8XkxboxfQlaCbH9OGiB2hV2hhVq5yLr1ZLMV9MIJ83jOsUF2pv1H966ih9C198Kh251EwXP+HA14nJejZal0gwT+AP6nLOM686TS456zx4LTbRpcrU3kJrkl7CDaxd/g4vhBPHnMELoX9mB3p0qax2VLHga/spTRHK+WDlWXVHcDT2xoniTfNQzar36kOhx3/f9nMBnjDQqlmLHM3YyjBqOeQ6VpyUx33GZPwbUY7/kDWxHltraJrF8WqURl0olVFymrGBRR+lK2xBvJo9CjppUCcwF1OBSjDbeELyI9PakX2FGU1XSZtbLgVSNY8J68xgD/ELzhzooDH+ZnXEFoiXNxNl8Flhud9RMeRx/B8/W7xKknVjrDZQVGXKlS9f/Zm9HfwTnsddOSzqgKGuSX8blodi3e/hMeHJTZ2qtONEa4SrWn9DoR5mF+irWgF6+CDjCstxUgL/cQ/pnNJl3JKXiC6wafmNr6+bYIL6zrlaurTzuBeUiSuklPgHbOwkaC+0FanBeRxJs8HpXAqPqyelf2oWDzuT8Tl+Bmy2rxFzkTdyuzoN85yEIEBshsXNQ8hObzYPeRNqafKFLAxdSCR+Ev4eXsDcZQdpplK3Rx5C7juBfSX6Sa7jG/hp9lZtJ5e5pUZ64MQyW6y9bYxFQ8kaTjOSHPDbh/sln3yLmMWzdVyowsw8TwxVO3CXXayXEYXoXSs4EvynqbO0IO0hz5CVqbPFgOlve6uxmswg+bhybwn1WLymFIboQplnm0qktYAn8bDAy+4p/Ft5CJ5Hi2hV/yF8hkScBaKde/+G0kZPYPcgL9r1fvTPR3343PJEP4Zy0//kS7UIHpCWJGl/CKatq8koIET+1cYTWih+z1DaoPzBmg3Vzgz2bdyE1guzdQ/gc+R8aHDkS/0e61ikoAHG2NFpb2Y/wczxB55AAYAAA==",
+      "isCompressed": true,
+      "vectorDimension": 768,
+      "stored": false,
+      "filePath": "unknown",
+      "startLine": 0,
+      "endLine": 0,
+      "language": "unknown",
+      "processingMode": "embedding_success",
+      "modelVersion": "code-embedding-v2.1"
+    },
+    {
+      "chunkId": "test3_5849fd71_1-1_mc91koz5_0",
+      "status": "success",
+      "vector": null,
+      "compressedVector": "H4sIAB9BWWgC/w3Tj1tV5QHAccJmG9DsilBNHhUjLuDlnnvec95fR8ilyFK7a2ZzmSmazHSpJY84yWIZM+YqxXwaKRpiIFzu5d5zzznvj3PyCTFJwya1UT45t3xyNNliSPoYac75L3yfz3eHuzT+Cg7LQXQv/XloA71bfK3/hxxECXcFi1KfMptoZqdywLkDjDnPmEFSr99Nt5jP8cmxavmg9Q+9P7ba2mtcsnaLMroGVpl3xsIyG2zRNrhhw48noWz4lrOpOD9UZVyzB0i7u1XZRBvUOO/R+tg37EN2HrcqijynFqAx4+9wYZdDljiXi4b431CT9zKriowLjdkGy7PayQRuByPWY3gnWM561d6Al9yGUul6OitwWBtmqV6243cU+KaEuIiMTyQjP+EPiPTiQgI6t+RPd7B+zPCr083CtkVWjAlrP4jAZ3mZeQ7cQw91zNYq9UFwpeVqcrcabf4nuWwyptL+oKqUzzzzztn8L3lS7uNHya5kBcuGp0MXyEoDw4j8nV6nDqq1ah9MSoG3gtvjPjcLr0kc1MtYQvtIVkW7+aN41L0zWKf5nO1wzP6Qf29WO80Ywi9BmvQFq+0WdwRPRXO8h8jVQJ0weB9ZA7I7nqUL5Up3GtqZ8NOLwW1qoyX1q4SQpegR+Vn8VXuiqDnoGuuNwyATbey4HOgQE+iKqSmJLDOsLabVeJbxF2u6kSpz0DIzvTXXbpbfoxwjhAJoIL4HqeaQ2GDOIalkQOSairFaxPHRWAZ/Xi+hi+z5ocmw2KikPcQOPRP4IPGadgP4CqHVqiyBYTzJ7dMnwa8L6r1GeVg/4WzhY854N0A3w0x4idShdPc2ES6eqLwud5AFpJzs0m6Yh5zXZ7zByzp+JK6I97xHzSky1/kkdtOtZBcczTgtf0lPiYXOjUCBXAGrZQ0ZknX8cdQUMa0sZKspDO0rRYuMGF4w8yv97YIS0B/Y62aEfDRRRK2P6XZ3N692f2P3Rj/S72GQNzgvuloI5ZXajyT28XFgRNs6/Ts4yF5IlsYXgP85faDe3MVqYvu7vmj9bfKIfh7YbctBt5PizQoVgwxjG7vOnsJ/oKx4HVonfcZcVBGvwC8Z+91h85pzQGbmDev5PMpHUD16WqvlR9xuFCaNuLlLGGOykv7CfIW8xkvEMOvFS2iNtQrcJm2yFkxuvx79oTif/zOHRxL2PLw2mUtrb11zXTbYt9/q2Icz0cdkZfYFZ4UYRU36w6EHDyikF/QW3suHNIWUeqVOCH2l/qAwAmBnBJ0lPaHPvGEraGe4V9oHQgOF3zhH7Wx+QPyr6KcwldHEk2r6/TXw4UCJ+l5LPz1GRzr/qJ5pm88G7fG4xLqvKC6WkGyq8D/70+Rd+LF3bVlvRdCZrkySooXdXPkUflNtRG1uBfIb19Q9bG7XHLdEIcEGcha+2nUSt4Ef457Yp8qy2Ma8I2yvLFf7WL88QT5xXXHcWu98C8/xNHdehw9nsl6RH5/rZJGGgm5RYTdqVZGn2VtyDOxoL2I5XkBPZfXW+KYMe15nEyUsSWZSf7KH+ujj+IH2TXyqt8h5CN9kJ8lNPYrzoJSeSCU7iaKWu9P4odb/4n/Dz5PznT0I6M+R04lardg+JrC8n58IKuaqGS3091MWJyqYYoyyF8FibXFym5oKiLeRtNhTWZsddMr5cZKCJnojxS90lIN075LbLAUp1XPI7NgT1hS2i39gvt9lJezAMrkZ52tfyDc8PiMdnTg0Sc0Ff0WVImoglMP+pFeSDeJq5POQI5fGnmer2B1FfpbWulqcMq93jZKoOA7r4DuFsYJ29SVrAgqRbqkFw7d8f0rb5ChcFygzjusFYn3oIlml/5p+i2eQEf2mNwStlilks8iVF+EA6ob7lHR3Lf+VzCoqLZgmD8NRrULbD1Pc75y5fCKLgDRwpPM+sJ2MM0+BEXqysNZYDv3xqLGZ3UWC0Tz5tqeyo+L/ojH60QAGAAA=",
+      "isCompressed": true,
+      "vectorDimension": 768,
+      "stored": false,
+      "filePath": "unknown",
+      "startLine": 0,
+      "endLine": 0,
+      "language": "unknown",
+      "processingMode": "embedding_success",
+      "modelVersion": "code-embedding-v2.1"
+    }
+  ],
+  "originalChunkData": [
+    {
+      "id": "test1_9ef56bfb_1-1_mc91koz3_0",
+      "filePath": "test1.js",
+      "fileName": null,
+      "type": "default",
+      "contentPreview": "console.log(\"Hello World\");..."
+    },
+    {
+      "id": "test2_783c60d4_1-1_mc91koz5_0",
+      "filePath": "test2.py",
+      "fileName": null,
+      "type": "variable",
+      "contentPreview": "print(\"Hello Python\")..."
+    },
+    {
+      "id": "test3_5849fd71_1-1_mc91koz5_0",
+      "filePath": "test3.java",
+      "fileName": null,
+      "type": "default",
+      "contentPreview": "public class Test { }..."
+    }
+  ]
+}

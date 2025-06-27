@@ -1,0 +1,29 @@
+2025-06-23T11:56:46.922Z [INFO] [VectorManager] Initializing VectorManager...
+2025-06-23T11:56:46.940Z [INFO] [VectorManager] Production mode: full VectorManager initialization
+2025-06-23T11:56:46.941Z [INFO] [VectorManager] PathEncryption disabled, using passthrough mode
+2025-06-23T11:56:49.933Z [INFO] [VectorManager] CacheManager initialized
+2025-06-23T11:56:49.933Z [INFO] [VectorManager] Database disabled or API-only mode, skipping VectorDB initialization
+2025-06-23T11:56:49.934Z [INFO] [VectorManager] EmbeddingClient initialized
+2025-06-23T11:56:49.935Z [INFO] [VectorManager] VectorManager initialized successfully
+2025-06-23T11:56:50.747Z [INFO] [VectorManager] Starting batch upload for test-delete-user-001_test-delete-device-001_40ed986ee22bede1: 88 vectors
+2025-06-23T11:56:50.761Z [INFO] [VectorManager] Flush completed: uploaded 88 vectors
+2025-06-23T11:56:50.762Z [INFO] [VectorManager] Flush completed: uploaded 0 vectors
+2025-06-23T11:56:51.022Z [INFO] [VectorManager] Shutting down VectorManager...
+2025-06-23T11:56:51.024Z [INFO] [VectorManager] Waiting for ongoing operations to complete...
+2025-06-23T11:56:53.034Z [INFO] [VectorManager] Flush completed: uploaded 0 vectors
+2025-06-23T11:56:53.039Z [INFO] [VectorManager] EmbeddingClient cleanup completed (no explicit shutdown needed)
+2025-06-23T11:56:53.041Z [INFO] [VectorManager] PathEncryption cleanup completed (no explicit shutdown needed)
+2025-06-23T11:56:53.043Z [INFO] [VectorManager] VectorManager shutdown completed
+2025-06-23T11:56:53.045Z [INFO] [VectorManager] Shutting down VectorManager...
+2025-06-23T11:56:53.046Z [INFO] [VectorManager] Waiting for ongoing operations to complete...
+2025-06-23T11:56:55.050Z [INFO] [VectorManager] Flush completed: uploaded 0 vectors
+2025-06-23T11:56:55.056Z [INFO] [VectorManager] EmbeddingClient cleanup completed (no explicit shutdown needed)
+2025-06-23T11:56:55.059Z [INFO] [VectorManager] PathEncryption cleanup completed (no explicit shutdown needed)
+2025-06-23T11:56:55.061Z [INFO] [VectorManager] VectorManager shutdown completed
+2025-06-23T11:57:52.877Z [INFO] [VectorManager] Received SIGINT signal, initiating graceful shutdown...
+2025-06-23T11:57:52.878Z [INFO] [VectorManager] Shutting down VectorManager...
+2025-06-23T11:57:52.879Z [INFO] [VectorManager] Waiting for ongoing operations to complete...
+2025-06-23T11:57:54.893Z [INFO] [VectorManager] Flush completed: uploaded 0 vectors
+2025-06-23T11:57:54.900Z [INFO] [VectorManager] EmbeddingClient cleanup completed (no explicit shutdown needed)
+2025-06-23T11:57:54.902Z [INFO] [VectorManager] PathEncryption cleanup completed (no explicit shutdown needed)
+2025-06-23T11:57:54.902Z [INFO] [VectorManager] VectorManager shutdown completed

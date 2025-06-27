@@ -1,0 +1,12 @@
+{
+  "batchId": "9d73e565",
+  "timestamp": "2025-06-12T01:19:15.174Z",
+  "chunkCount": 3,
+  "files": [
+    "tests/test_file_scanner.py"
+  ],
+  "languages": [
+    "python"
+  ],
+  "totalLines": 120
+}

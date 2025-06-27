@@ -1,0 +1,2 @@
+2025-06-23T11:56:50.748Z [WARN] [VectorManager] VectorDB not available for test-delete-user-001_test-delete-device-001_40ed986ee22bede1, skipping upload (development mode)
+2025-06-23T11:57:54.732Z [WARN] [VectorManager] Shutdown already in progress, ignoring SIGINT

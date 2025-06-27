@@ -1,0 +1,171 @@
+2025-06-11T08:22:57.080Z [INFO] [VectorManager] Initializing VectorManager...
+2025-06-11T08:22:57.081Z [INFO] [VectorManager] Production mode: full VectorManager initialization
+2025-06-11T08:22:57.086Z [INFO] [VectorManager] PathEncryption initialized
+2025-06-11T08:27:27.063Z [INFO] [VectorManager] Initializing VectorManager...
+2025-06-11T08:27:27.064Z [INFO] [VectorManager] Production mode: full VectorManager initialization
+2025-06-11T08:27:27.068Z [INFO] [VectorManager] PathEncryption initialized
+2025-06-11T08:27:27.077Z [INFO] [VectorManager] CacheManager initialized
+2025-06-11T08:27:27.188Z [INFO] [VectorManager] VectorDB initialized
+2025-06-11T08:27:27.189Z [INFO] [VectorManager] EmbeddingClient initialized
+2025-06-11T08:27:27.190Z [INFO] [VectorManager] VectorManager initialized successfully
+2025-06-11T08:27:31.290Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 4 vectors
+2025-06-11T08:27:31.458Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 4 vectors uploaded
+2025-06-11T08:27:31.527Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 4 vectors
+2025-06-11T08:27:31.634Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 4 vectors uploaded
+2025-06-11T08:27:31.708Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors
+2025-06-11T08:27:31.817Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-11T08:27:32.135Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors
+2025-06-11T08:27:32.247Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-11T08:27:32.483Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors
+2025-06-11T08:27:32.616Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-11T08:27:33.071Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors
+2025-06-11T08:27:33.178Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-11T08:27:33.258Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors
+2025-06-11T08:27:33.366Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-11T08:27:33.709Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors
+2025-06-11T08:27:33.837Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-11T08:27:34.193Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 6 vectors
+2025-06-11T08:27:34.297Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 6 vectors uploaded
+2025-06-11T08:27:34.376Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors
+2025-06-11T08:27:34.488Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-11T08:27:35.152Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 4 vectors
+2025-06-11T08:27:35.308Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 4 vectors uploaded
+2025-06-11T08:27:35.561Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 5 vectors
+2025-06-11T08:27:35.595Z [INFO] [VectorManager] Received SIGINT signal
+2025-06-11T08:27:35.595Z [INFO] [VectorManager] Shutting down VectorManager...
+2025-06-11T08:27:35.668Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 5 vectors uploaded
+2025-06-11T08:27:35.701Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 1 vectors
+2025-06-11T08:27:35.807Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 1 vectors uploaded
+2025-06-11T08:27:35.808Z [INFO] [VectorManager] Flush completed: uploaded 1 vectors
+2025-06-11T08:27:35.821Z [INFO] [VectorManager] EmbeddingClient cleanup completed (no explicit shutdown needed)
+2025-06-11T08:27:35.822Z [INFO] [VectorManager] PathEncryption cleanup completed (no explicit shutdown needed)
+2025-06-11T08:27:35.822Z [INFO] [VectorManager] VectorManager shutdown completed
+2025-06-11T08:27:39.855Z [INFO] [VectorManager] Initializing VectorManager...
+2025-06-11T08:27:39.856Z [INFO] [VectorManager] Production mode: full VectorManager initialization
+2025-06-11T08:27:39.860Z [INFO] [VectorManager] PathEncryption initialized
+2025-06-11T08:27:41.159Z [INFO] [VectorManager] CacheManager initialized
+2025-06-11T08:27:41.270Z [INFO] [VectorManager] VectorDB initialized
+2025-06-11T08:27:41.271Z [INFO] [VectorManager] EmbeddingClient initialized
+2025-06-11T08:27:41.271Z [INFO] [VectorManager] VectorManager initialized successfully
+2025-06-11T08:27:45.264Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 47 vectors
+2025-06-11T08:27:45.641Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 47 vectors uploaded
+2025-06-11T08:27:45.701Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 7 vectors
+2025-06-11T08:27:45.816Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 7 vectors uploaded
+2025-06-11T08:27:46.091Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 2 vectors
+2025-06-11T08:27:46.217Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 2 vectors uploaded
+2025-06-11T08:27:46.735Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors
+2025-06-11T08:27:46.845Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-11T08:27:47.023Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors
+2025-06-11T08:27:47.150Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-11T08:27:47.315Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 4 vectors
+2025-06-11T08:27:47.465Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 4 vectors uploaded
+2025-06-11T08:27:47.899Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 5 vectors
+2025-06-11T08:27:48.009Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 5 vectors uploaded
+2025-06-11T08:27:48.069Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 4 vectors
+2025-06-11T08:27:48.175Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 4 vectors uploaded
+2025-06-11T08:27:48.269Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 2 vectors
+2025-06-11T08:27:48.366Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 2 vectors uploaded
+2025-06-11T08:27:48.652Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors
+2025-06-11T08:27:48.778Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-11T08:27:49.150Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors
+2025-06-11T08:27:49.292Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-11T08:27:50.677Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 6 vectors
+2025-06-11T08:27:50.816Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 6 vectors uploaded
+2025-06-11T08:27:50.909Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors
+2025-06-11T08:27:51.055Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-11T08:27:51.120Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 6 vectors
+2025-06-11T08:27:51.251Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 6 vectors uploaded
+2025-06-11T08:27:51.664Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors
+2025-06-11T08:27:51.819Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-11T08:27:51.854Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 4 vectors
+2025-06-11T08:27:51.980Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 4 vectors uploaded
+2025-06-11T08:27:52.063Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 2 vectors
+2025-06-11T08:27:52.182Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 2 vectors uploaded
+2025-06-11T08:27:52.588Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors
+2025-06-11T08:27:52.712Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-11T08:27:52.764Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 4 vectors
+2025-06-11T08:27:52.880Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 4 vectors uploaded
+2025-06-11T08:27:53.089Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 2 vectors
+2025-06-11T08:27:53.197Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 2 vectors uploaded
+2025-06-11T08:27:53.386Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors
+2025-06-11T08:27:53.494Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-11T08:27:53.571Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors
+2025-06-11T08:27:53.681Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-11T08:27:54.484Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors
+2025-06-11T08:27:54.591Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-11T08:27:54.787Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors
+2025-06-11T08:27:54.934Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-11T08:27:55.008Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 6 vectors
+2025-06-11T08:27:55.121Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 6 vectors uploaded
+2025-06-11T08:27:55.356Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors
+2025-06-11T08:27:55.366Z [INFO] [VectorManager] Flush completed: uploaded 0 vectors
+2025-06-11T08:27:55.367Z [INFO] [VectorManager] Flush completed: uploaded 0 vectors
+2025-06-11T08:27:55.482Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-11T08:27:55.726Z [INFO] [VectorManager] 从metadata数组中提取到 20 个实际搜索结果
+2025-06-11T08:27:55.727Z [INFO] [VectorManager] Successfully processed 20/20 search results
+2025-06-11T08:27:55.727Z [INFO] [VectorManager] Search completed: found 20 results for query "python parser..."
+2025-06-11T08:27:55.741Z [INFO] [VectorManager] Shutting down VectorManager...
+2025-06-11T08:27:55.742Z [INFO] [VectorManager] Flush completed: uploaded 0 vectors
+2025-06-11T08:27:55.745Z [INFO] [VectorManager] EmbeddingClient cleanup completed (no explicit shutdown needed)
+2025-06-11T08:27:55.745Z [INFO] [VectorManager] PathEncryption cleanup completed (no explicit shutdown needed)
+2025-06-11T08:27:55.745Z [INFO] [VectorManager] VectorManager shutdown completed
+2025-06-11T09:25:31.854Z [INFO] [VectorManager] Initializing VectorManager...
+2025-06-11T09:25:31.855Z [INFO] [VectorManager] Production mode: full VectorManager initialization
+2025-06-11T09:25:31.859Z [INFO] [VectorManager] PathEncryption initialized
+2025-06-11T09:25:34.468Z [INFO] [VectorManager] CacheManager initialized
+2025-06-11T09:25:34.730Z [INFO] [VectorManager] VectorDB initialized
+2025-06-11T09:25:34.730Z [INFO] [VectorManager] EmbeddingClient initialized
+2025-06-11T09:25:34.731Z [INFO] [VectorManager] VectorManager initialized successfully
+2025-06-11T09:25:38.538Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 90 vectors
+2025-06-11T09:25:40.679Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 90 vectors uploaded
+2025-06-11T09:25:40.863Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 18 vectors
+2025-06-11T09:25:41.127Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 18 vectors uploaded
+2025-06-11T09:25:41.227Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 6 vectors
+2025-06-11T09:25:41.383Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 6 vectors uploaded
+2025-06-11T09:25:41.899Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors
+2025-06-11T09:25:42.007Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-11T09:25:42.188Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors
+2025-06-11T09:25:42.324Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-11T09:25:42.479Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 6 vectors
+2025-06-11T09:25:42.629Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 6 vectors uploaded
+2025-06-11T09:25:42.849Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors
+2025-06-11T09:25:42.958Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-11T09:25:43.805Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors
+2025-06-11T09:25:43.933Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-11T09:25:44.031Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors
+2025-06-11T09:25:44.177Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-11T09:25:44.269Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 5 vectors
+2025-06-11T09:25:44.442Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 5 vectors uploaded
+2025-06-11T09:25:44.834Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 4 vectors
+2025-06-11T09:25:44.943Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 4 vectors uploaded
+2025-06-11T09:25:45.017Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors
+2025-06-11T09:25:45.133Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-11T09:25:45.800Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors
+2025-06-11T09:25:45.932Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-11T09:25:46.071Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors
+2025-06-11T09:25:46.250Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-11T09:25:46.313Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 7 vectors
+2025-06-11T09:25:46.486Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 7 vectors uploaded
+2025-06-11T09:25:46.620Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 2 vectors
+2025-06-11T09:25:46.734Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 2 vectors uploaded
+2025-06-11T09:25:46.873Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors
+2025-06-11T09:25:47.006Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-11T09:25:47.859Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors
+2025-06-11T09:25:47.993Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-11T09:25:48.120Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 4 vectors
+2025-06-11T09:25:48.300Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 4 vectors uploaded
+2025-06-11T09:25:49.369Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 5 vectors
+2025-06-11T09:25:49.520Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 5 vectors uploaded
+2025-06-11T09:25:49.692Z [INFO] [VectorManager] Starting batch upload for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors
+2025-06-11T09:25:49.703Z [INFO] [VectorManager] Flush completed: uploaded 0 vectors
+2025-06-11T09:25:49.703Z [INFO] [VectorManager] Flush completed: uploaded 0 vectors
+2025-06-11T09:25:49.849Z [INFO] [VectorManager] Batch upload completed for test-user-001_test-device-001_40ed986ee22bede1: 3 vectors uploaded
+2025-06-11T09:25:49.913Z [INFO] [VectorManager] 从metadata数组中提取到 20 个实际搜索结果
+2025-06-11T09:25:49.915Z [INFO] [VectorManager] Successfully processed 20/20 search results
+2025-06-11T09:25:49.916Z [INFO] [VectorManager] Search completed: found 20 results for query "python parser..."
+2025-06-11T09:25:49.939Z [INFO] [VectorManager] Shutting down VectorManager...
+2025-06-11T09:25:49.940Z [INFO] [VectorManager] Flush completed: uploaded 0 vectors
+2025-06-11T09:25:49.954Z [INFO] [VectorManager] EmbeddingClient cleanup completed (no explicit shutdown needed)
+2025-06-11T09:25:49.954Z [INFO] [VectorManager] PathEncryption cleanup completed (no explicit shutdown needed)
+2025-06-11T09:25:49.954Z [INFO] [VectorManager] VectorManager shutdown completed
+2025-06-11T09:43:47.963Z [INFO] [VectorManager] Received SIGINT signal

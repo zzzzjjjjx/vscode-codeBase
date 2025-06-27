@@ -1,0 +1,12 @@
+{
+  "batchId": "463a2a44",
+  "timestamp": "2025-06-12T01:32:13.008Z",
+  "chunkCount": 3,
+  "files": [
+    "chunker/parsers/ast_parser.py"
+  ],
+  "languages": [
+    "python"
+  ],
+  "totalLines": 125
+}

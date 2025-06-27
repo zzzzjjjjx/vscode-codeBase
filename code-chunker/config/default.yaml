@@ -1,0 +1,304 @@
+# 文件扫描配置
+maxFileSize: 5242880  # 5MB (增加限制以支持大型源文件)
+
+# 🔥 支持多语言项目的文件扫描白名单（包括Python、C++、CUDA等深度学习项目）
+scanFileExtensions:
+  # 🐍 Python文件
+  - .py          # Python源代码
+  - .pyx         # Cython文件
+  - .pyi         # Python类型存根文件
+  - .pyw         # Python Windows脚本
+  
+  # 🔧 C/C++文件
+  - .c           # C源代码
+  - .cpp         # C++源代码
+  - .cc          # C++源代码
+  - .cxx         # C++源代码
+  - .c++         # C++源代码
+  - .h           # C/C++头文件
+  - .hpp         # C++头文件
+  - .hh          # C++头文件
+  - .hxx         # C++头文件
+  - .h++         # C++头文件
+  
+  # 🚀 CUDA文件
+  - .cu          # CUDA源代码
+  - .cuh         # CUDA头文件
+  
+  # ⚙️ 配置文件
+  - .yaml        # YAML配置文件
+  - .yml         # YAML配置文件
+  - .json        # JSON配置文件
+  - .toml        # TOML配置文件
+  - .ini         # INI配置文件
+  - .cfg         # 配置文件
+  - .conf        # 配置文件
+  
+  # 🏗️ 构建文件
+  - .cmake       # CMake文件
+  - .txt         # CMakeLists.txt和其他文本文件
+  - .mk          # Makefile
+  - .make        # Makefile
+  
+  # 📚 文档文件
+  - .md          # Markdown文档
+  - .rst         # reStructuredText文档
+  
+  # 🐚 脚本文件
+  - .sh          # Shell脚本
+  - .bash        # Bash脚本
+  - .zsh         # Zsh脚本
+  - .fish        # Fish脚本
+  
+  # ☕ Java文件（保持向后兼容）
+  - .java        # Java源代码
+  - .xml         # XML配置文件
+  - .properties  # Properties配置文件
+  
+  # 🌐 Web文件
+  - .js          # JavaScript
+  - .ts          # TypeScript
+  - .jsx         # React JSX
+  - .tsx         # React TSX
+  
+  # 🔍 其他常见格式
+  - .proto       # Protocol Buffers
+  - .proto3      # Protocol Buffers v3
+
+# 🔥 大幅扩展忽略目录列表（支持多语言项目包括深度学习项目）
+ignoredDirectories:
+  # 基础忽略
+  - node_modules
+  - .git
+  - .vscode
+  - .idea
+  
+  # 编译输出目录
+  - target        # Maven编译输出
+  - build         # 各种编译输出
+  - out
+  - bin
+  - classes
+  - __pycache__   # Python字节码缓存
+  - .pytest_cache # pytest缓存
+  - .coverage     # 覆盖率测试缓存
+  - cmake-build-debug    # CMake debug构建
+  - cmake-build-release  # CMake release构建
+  
+  # 测试和文档相关
+  - test          # 测试目录
+  - tests         # 测试目录
+  - src/test      # Maven测试目录
+  - doc           # 文档目录
+  - docs          # 文档目录
+  - documentation # 文档目录
+  
+  # 🔥 数据库和SQL相关（关键：排除大型SQL文件）
+  - sql           # SQL脚本目录
+  - database      # 数据库目录
+  - db            # 数据库目录
+  - migration     # 数据库迁移
+  - migrations    # 数据库迁移
+  - schema        # 数据库模式
+  - data          # 数据文件
+  
+  # 🔥 第三方和补丁（关键：排除第三方代码）
+  - flowable-patch # 第三方补丁
+  - patch         # 补丁目录
+  - patches       # 补丁目录
+  - lib           # 第三方库
+  - libs          # 第三方库
+  - vendor        # 第三方代码
+  - third-party   # 第三方代码
+  - 3rdparty      # 第三方代码
+  
+  # 前端相关（如果是纯后端项目）
+  - ui            # 前端UI目录
+  - frontend      # 前端目录
+  - static        # 静态资源
+  - resources/static # Spring Boot静态资源
+  - public        # 公共资源
+  - assets        # 静态资源
+  - dist          # 前端构建产物
+  
+  # 脚本和工具
+  - script        # 脚本目录
+  - scripts       # 脚本目录
+  - tools         # 工具目录
+  - deploy        # 部署脚本
+  - devops        # 运维脚本
+  
+  # 缓存和临时文件
+  - coverage
+  - .nyc_output
+  - __pycache__
+  - .pytest_cache
+  - .tox
+  - venv
+  - env
+  - .env
+  - .vector-cache
+  - .cache
+  - temp
+  - tmp
+  - .tmp
+  - logs          # 日志目录
+  - log           # 日志目录
+
+# 🔥 Java项目特定的精准忽略模式
+ignorePatterns:
+  # 基础忽略模式
+  - "**/node_modules/**"
+  - "**/.git/**"
+  - "**/.vscode/**"
+  - "**/.idea/**"
+  - "**/target/**"
+  - "**/build/**"
+  - "**/out/**"
+  - "**/bin/**"
+  
+  # 🔥 关键：排除所有SQL文件（防止处理大型SQL文件）
+  - "**/*.sql"
+  - "**/sql/**"
+  - "**/database/**"
+  - "**/db/**"
+  - "**/*migration*/**"
+  
+  # 🔥 排除第三方和补丁文件
+  - "**/flowable-patch/**"
+  - "**/third-party/**"
+  - "**/3rdparty/**"
+  - "**/vendor/**"
+  - "**/lib/**"
+  - "**/libs/**"
+  
+  # 🔥 排除测试文件（大幅减少文件数量）
+  - "**/test/**"
+  - "**/tests/**"
+  - "**/src/test/**"
+  - "**/*Test.java"
+  - "**/*Tests.java"
+  - "**/*TestCase.java"
+  - "**/*test*.py"
+  - "**/test_*.py"
+  - "**/*_test.py"
+  - "**/conftest.py"
+  
+  # 前端和静态资源
+  - "**/ui/**"
+  - "**/frontend/**"
+  - "**/static/**"
+  - "**/public/**"
+  - "**/assets/**"
+  - "**/dist/**"
+  - "**/resources/static/**"
+  
+  # 脚本和文档
+  - "**/script/**"
+  - "**/scripts/**"
+  - "**/doc/**"
+  - "**/docs/**"
+  - "**/documentation/**"
+
+  # 编译和构建产物
+  - "**/*.class"
+  - "**/*.jar"
+  - "**/*.war"
+  - "**/*.ear"
+  - "**/*.zip"
+  - "**/*.tar.gz"
+  - "**/*.so"
+  - "**/*.dll"
+  - "**/*.dylib"
+  - "**/*.a"
+  - "**/*.lib"
+  - "**/*.o"
+  - "**/*.obj"
+  - "**/*.pyc"
+  - "**/*.pyo"
+  - "**/*.pyd"
+  - "**/*.whl"
+  
+  # 日志和临时文件
+  - "**/*.log"
+  - "**/logs/**"
+  - "**/log/**"
+  - "**/temp/**"
+  - "**/tmp/**"
+  - "**/.tmp/**"
+  
+  # 特定大文件模式（防止处理巨大文件）
+  - "**/*quartz.sql"
+  - "**/*ruoyi-vue-pro*.sql"
+  - "**/*flowable*.sql"
+  - "**/*data*.sql"
+  - "**/*schema*.sql"
+  
+  # 深度学习和AI项目特有忽略模式
+  - "**/models/**"        # 预训练模型目录
+  - "**/weights/**"       # 权重文件目录
+  - "**/checkpoints/**"   # 检查点目录
+  - "**/data/**"          # 数据集目录
+  - "**/datasets/**"      # 数据集目录
+  - "**/*.bin"            # 二进制文件
+  - "**/*.onnx"           # ONNX模型文件
+  - "**/*.pb"             # TensorFlow模型文件
+  - "**/*.pth"            # PyTorch模型文件
+  - "**/*.safetensors"    # SafeTensors格式文件
+  - "**/*.engine"         # TensorRT引擎文件
+  - "**/*.plan"           # TensorRT plan文件
+  - "**/wandb/**"         # Weights & Biases日志
+  - "**/runs/**"          # TensorBoard日志
+  - "**/.pytest_cache/**" # pytest缓存
+  - "**/__pycache__/**"   # Python缓存
+  - "**/venv/**"          # Python虚拟环境
+  - "**/env/**"           # 环境目录
+  
+  # CUDA和TensorRT生成文件（通常很大且无源码意义）
+  - "**/cubin/**"         # CUDA binary目录
+  - "**/*.cubin"          # CUDA binary文件
+  - "**/*.cubin.cpp"      # CUDA binary包装文件
+  - "**/*.ptx"            # PTX汇编文件
+  - "**/*.fatbin"         # CUDA fatbin文件
+  - "**/generated/**"     # 生成的代码目录
+
+# 🔥 并发处理参数优化（适合多语言项目包括深度学习项目）
+maxWorkers: 1           # 只使用1个Worker，避免内存问题
+batchSize: 100           # 批处理大小
+linesPerChunk: 50       # 代码块大小，减少代码块数量
+useWorkers: false       # 禁用Worker模式，使用同步处理
+
+# 性能优化配置
+performance:
+  maxMemoryUsage: 0.6   # 60%内存使用率阈值
+  enableGC: true        # 启用垃圾回收
+  gcInterval: 100       # 每处理100个文件进行一次GC
+
+# API锁定机制配置
+userId: "user123"          # 用户ID，用于API锁定机制
+deviceId: "device123"      # 设备ID，用于API锁定机制
+workspacePath: ""          # 工作空间路径，运行时会自动设置
+
+# vectorManager配置 - 简化配置，移除缓存相关设置
+vectorManager:
+  enabled: true
+    cleanupInterval: 1800000  # 30分钟清理一次
+  security:
+    enabled: false
+    keyPath: "./keys/vector.key"
+  # 禁用腾讯云数据库，只使用新API
+  database:
+    type: "api_only"  # 改为api_only类型
+    enabled: false    # 禁用直接数据库连接
+  # 只使用嵌入API
+  embedding:
+    baseURL: "http://42.193.14.136:8087"
+    timeout: 60000     # 增加超时时间到60秒
+    token: "your_api_token"
+    maxRetries: 2      # 从3减少到2
+    retryDelay: 2000   # 增加重试延迟
+    endpoints:
+      embed: "/api/v1/codebase/embed"
+      upsert: "/api/v1/codebase/upsert"
+
+# 注意：API端点、重试策略、embedding配置现在由 backend-api-config.js 管理 

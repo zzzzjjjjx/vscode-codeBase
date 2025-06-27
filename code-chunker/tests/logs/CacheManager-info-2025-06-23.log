@@ -1,0 +1,13 @@
+2025-06-23T11:56:46.956Z [INFO] [CacheManager] Initializing CacheManager...
+2025-06-23T11:56:49.925Z [INFO] [CacheManager] Restored 88 vectors from persistence for test-delete-user-001_test-delete-device-001_40ed986ee22bede1
+2025-06-23T11:56:49.927Z [INFO] [CacheManager] Restored 0 vectors from persistence for test-monitor-user-comprehensive_test-monitor-device-comprehensive_40ed986ee22bede1
+2025-06-23T11:56:49.932Z [INFO] [CacheManager] Restored 0 vectors from persistence for test-user-001_test-device-001_40ed986ee22bede1
+2025-06-23T11:56:49.932Z [INFO] [CacheManager] CacheManager initialized successfully
+2025-06-23T11:56:50.745Z [INFO] [CacheManager] Extracted 88 vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1 for upload
+2025-06-23T11:56:50.759Z [INFO] [CacheManager] Cleared 88 uploaded vectors from cache test-delete-user-001_test-delete-device-001_40ed986ee22bede1
+2025-06-23T11:56:53.035Z [INFO] [CacheManager] Shutting down CacheManager...
+2025-06-23T11:56:53.037Z [INFO] [CacheManager] CacheManager shutdown completed
+2025-06-23T11:56:55.052Z [INFO] [CacheManager] Shutting down CacheManager...
+2025-06-23T11:56:55.054Z [INFO] [CacheManager] CacheManager shutdown completed
+2025-06-23T11:57:54.896Z [INFO] [CacheManager] Shutting down CacheManager...
+2025-06-23T11:57:54.898Z [INFO] [CacheManager] CacheManager shutdown completed

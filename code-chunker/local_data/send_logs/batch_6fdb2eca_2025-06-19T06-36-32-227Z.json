@@ -1,0 +1,45 @@
+{
+  "batchInfo": {
+    "batchId": "6fdb2eca",
+    "timestamp": "2025-06-19T06:36:32.227Z",
+    "chunkCount": 3,
+    "userId": "test_user",
+    "deviceId": "test_device"
+  },
+  "embeddingOptions": {
+    "uniqueId": "test_user-test_device-1750314992227",
+    "parserVersion": "1.0.0",
+    "processingMode": "sync"
+  },
+  "codeChunks": [
+    null,
+    {
+      "chunkId": "test2",
+      "filePath": "test2.py"
+    },
+    null
+  ],
+  "originalChunkData": [
+    {
+      "id": "unknown",
+      "filePath": "unknown",
+      "fileName": null,
+      "type": "unknown",
+      "contentPreview": "No content"
+    },
+    {
+      "id": "test2",
+      "filePath": "test2.py",
+      "fileName": null,
+      "type": "unknown",
+      "contentPreview": "No content"
+    },
+    {
+      "id": "unknown",
+      "filePath": "unknown",
+      "fileName": null,
+      "type": "unknown",
+      "contentPreview": "No content"
+    }
+  ]
+}

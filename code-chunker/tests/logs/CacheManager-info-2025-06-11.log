@@ -1,0 +1,136 @@
+2025-06-11T08:22:57.087Z [INFO] [CacheManager] Initializing CacheManager...
+2025-06-11T08:27:27.068Z [INFO] [CacheManager] Initializing CacheManager...
+2025-06-11T08:27:27.076Z [INFO] [CacheManager] CacheManager initialized successfully
+2025-06-11T08:27:31.290Z [INFO] [CacheManager] Extracted 4 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T08:27:31.458Z [INFO] [CacheManager] Cleared 4 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:31.526Z [INFO] [CacheManager] Extracted 4 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T08:27:31.632Z [INFO] [CacheManager] Cleared 4 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:31.708Z [INFO] [CacheManager] Extracted 3 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T08:27:31.817Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:32.135Z [INFO] [CacheManager] Extracted 3 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T08:27:32.246Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:32.483Z [INFO] [CacheManager] Extracted 3 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T08:27:32.616Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:33.071Z [INFO] [CacheManager] Extracted 3 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T08:27:33.177Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:33.258Z [INFO] [CacheManager] Extracted 3 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T08:27:33.365Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:33.709Z [INFO] [CacheManager] Extracted 3 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T08:27:33.837Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:34.192Z [INFO] [CacheManager] Extracted 6 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T08:27:34.297Z [INFO] [CacheManager] Cleared 6 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:34.375Z [INFO] [CacheManager] Extracted 3 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T08:27:34.486Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:35.152Z [INFO] [CacheManager] Extracted 4 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T08:27:35.307Z [INFO] [CacheManager] Cleared 4 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:35.561Z [INFO] [CacheManager] Extracted 5 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T08:27:35.667Z [INFO] [CacheManager] Cleared 5 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:35.700Z [INFO] [CacheManager] Extracted 1 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T08:27:35.806Z [INFO] [CacheManager] Cleared 1 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:35.809Z [INFO] [CacheManager] Shutting down CacheManager...
+2025-06-11T08:27:35.818Z [INFO] [CacheManager] CacheManager shutdown completed
+2025-06-11T08:27:39.860Z [INFO] [CacheManager] Initializing CacheManager...
+2025-06-11T08:27:41.158Z [INFO] [CacheManager] Restored 45 vectors from persistence for test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:41.158Z [INFO] [CacheManager] CacheManager initialized successfully
+2025-06-11T08:27:45.263Z [INFO] [CacheManager] Extracted 47 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T08:27:45.640Z [INFO] [CacheManager] Cleared 47 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:45.701Z [INFO] [CacheManager] Extracted 7 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T08:27:45.816Z [INFO] [CacheManager] Cleared 7 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:46.090Z [INFO] [CacheManager] Extracted 2 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T08:27:46.216Z [INFO] [CacheManager] Cleared 2 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:46.735Z [INFO] [CacheManager] Extracted 3 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T08:27:46.845Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:47.022Z [INFO] [CacheManager] Extracted 3 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T08:27:47.149Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:47.314Z [INFO] [CacheManager] Extracted 4 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T08:27:47.465Z [INFO] [CacheManager] Cleared 4 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:47.899Z [INFO] [CacheManager] Extracted 5 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T08:27:48.008Z [INFO] [CacheManager] Cleared 5 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:48.069Z [INFO] [CacheManager] Extracted 4 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T08:27:48.175Z [INFO] [CacheManager] Cleared 4 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:48.269Z [INFO] [CacheManager] Extracted 2 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T08:27:48.366Z [INFO] [CacheManager] Cleared 2 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:48.652Z [INFO] [CacheManager] Extracted 3 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T08:27:48.776Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:49.150Z [INFO] [CacheManager] Extracted 3 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T08:27:49.291Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:50.677Z [INFO] [CacheManager] Extracted 6 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T08:27:50.815Z [INFO] [CacheManager] Cleared 6 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:50.909Z [INFO] [CacheManager] Extracted 3 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T08:27:51.054Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:51.119Z [INFO] [CacheManager] Extracted 6 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T08:27:51.251Z [INFO] [CacheManager] Cleared 6 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:51.664Z [INFO] [CacheManager] Extracted 3 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T08:27:51.818Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:51.853Z [INFO] [CacheManager] Extracted 4 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T08:27:51.980Z [INFO] [CacheManager] Cleared 4 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:52.062Z [INFO] [CacheManager] Extracted 2 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T08:27:52.181Z [INFO] [CacheManager] Cleared 2 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:52.587Z [INFO] [CacheManager] Extracted 3 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T08:27:52.711Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:52.764Z [INFO] [CacheManager] Extracted 4 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T08:27:52.879Z [INFO] [CacheManager] Cleared 4 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:53.088Z [INFO] [CacheManager] Extracted 2 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T08:27:53.197Z [INFO] [CacheManager] Cleared 2 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:53.385Z [INFO] [CacheManager] Extracted 3 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T08:27:53.494Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:53.570Z [INFO] [CacheManager] Extracted 3 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T08:27:53.681Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:54.483Z [INFO] [CacheManager] Extracted 3 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T08:27:54.590Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:54.787Z [INFO] [CacheManager] Extracted 3 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T08:27:54.934Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:55.007Z [INFO] [CacheManager] Extracted 6 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T08:27:55.120Z [INFO] [CacheManager] Cleared 6 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:55.355Z [INFO] [CacheManager] Extracted 3 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T08:27:55.482Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T08:27:55.742Z [INFO] [CacheManager] Shutting down CacheManager...
+2025-06-11T08:27:55.743Z [INFO] [CacheManager] CacheManager shutdown completed
+2025-06-11T09:25:31.860Z [INFO] [CacheManager] Initializing CacheManager...
+2025-06-11T09:25:34.467Z [INFO] [CacheManager] Restored 88 vectors from persistence for test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:34.467Z [INFO] [CacheManager] CacheManager initialized successfully
+2025-06-11T09:25:38.537Z [INFO] [CacheManager] Extracted 90 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T09:25:40.020Z [INFO] [CacheManager] Cleared 50 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:40.678Z [INFO] [CacheManager] Cleared 40 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:40.862Z [INFO] [CacheManager] Extracted 18 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T09:25:41.127Z [INFO] [CacheManager] Cleared 18 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:41.227Z [INFO] [CacheManager] Extracted 6 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T09:25:41.381Z [INFO] [CacheManager] Cleared 6 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:41.899Z [INFO] [CacheManager] Extracted 3 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T09:25:42.007Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:42.187Z [INFO] [CacheManager] Extracted 3 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T09:25:42.323Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:42.478Z [INFO] [CacheManager] Extracted 6 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T09:25:42.628Z [INFO] [CacheManager] Cleared 6 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:42.848Z [INFO] [CacheManager] Extracted 3 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T09:25:42.957Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:43.805Z [INFO] [CacheManager] Extracted 3 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T09:25:43.932Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:44.030Z [INFO] [CacheManager] Extracted 3 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T09:25:44.177Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:44.269Z [INFO] [CacheManager] Extracted 5 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T09:25:44.442Z [INFO] [CacheManager] Cleared 5 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:44.833Z [INFO] [CacheManager] Extracted 4 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T09:25:44.942Z [INFO] [CacheManager] Cleared 4 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:45.017Z [INFO] [CacheManager] Extracted 3 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T09:25:45.132Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:45.799Z [INFO] [CacheManager] Extracted 3 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T09:25:45.931Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:46.071Z [INFO] [CacheManager] Extracted 3 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T09:25:46.250Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:46.312Z [INFO] [CacheManager] Extracted 7 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T09:25:46.486Z [INFO] [CacheManager] Cleared 7 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:46.619Z [INFO] [CacheManager] Extracted 2 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T09:25:46.733Z [INFO] [CacheManager] Cleared 2 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:46.873Z [INFO] [CacheManager] Extracted 3 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T09:25:47.005Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:47.858Z [INFO] [CacheManager] Extracted 3 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T09:25:47.992Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:48.120Z [INFO] [CacheManager] Extracted 4 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T09:25:48.300Z [INFO] [CacheManager] Cleared 4 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:49.368Z [INFO] [CacheManager] Extracted 5 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T09:25:49.520Z [INFO] [CacheManager] Cleared 5 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:49.692Z [INFO] [CacheManager] Extracted 3 vectors from cache test-user-001_test-device-001_40ed986ee22bede1 for upload
+2025-06-11T09:25:49.848Z [INFO] [CacheManager] Cleared 3 uploaded vectors from cache test-user-001_test-device-001_40ed986ee22bede1
+2025-06-11T09:25:49.941Z [INFO] [CacheManager] Shutting down CacheManager...
+2025-06-11T09:25:49.952Z [INFO] [CacheManager] CacheManager shutdown completed

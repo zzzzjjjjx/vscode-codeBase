@@ -1,0 +1,14 @@
+{
+  "batchId": "2a3455ca",
+  "timestamp": "2025-06-12T02:27:48.013Z",
+  "chunkCount": 3,
+  "files": [
+    "README.md",
+    "tests/test_file_scanner.py"
+  ],
+  "languages": [
+    "unknown",
+    "python"
+  ],
+  "totalLines": 12
+}

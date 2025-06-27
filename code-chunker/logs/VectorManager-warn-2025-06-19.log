@@ -1,0 +1,4 @@
+2025-06-19T06:19:33.150Z [WARN] [VectorManager] Database config not found or local type, skipping VectorDB
+2025-06-19T06:19:33.251Z [WARN] [VectorManager] VectorManager is already shutting down, waiting for completion...
+2025-06-19T06:22:29.109Z [WARN] [VectorManager] Database config not found or local type, skipping VectorDB
+2025-06-19T06:22:29.929Z [WARN] [VectorManager] VectorDB not available for test_user_test_device_11cb8a2dd6898e98, skipping upload (development mode)

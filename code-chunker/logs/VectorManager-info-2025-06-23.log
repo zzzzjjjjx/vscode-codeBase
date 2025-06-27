@@ -1,0 +1,21 @@
+2025-06-23T11:57:18.792Z [INFO] [VectorManager] Initializing VectorManager...
+2025-06-23T11:57:18.794Z [INFO] [VectorManager] Production mode: full VectorManager initialization
+2025-06-23T11:57:18.795Z [INFO] [VectorManager] PathEncryption disabled, using passthrough mode
+2025-06-23T11:57:18.819Z [INFO] [VectorManager] CacheManager initialized
+2025-06-23T11:57:18.820Z [INFO] [VectorManager] Database disabled or API-only mode, skipping VectorDB initialization
+2025-06-23T11:57:18.821Z [INFO] [VectorManager] EmbeddingClient initialized
+2025-06-23T11:57:18.822Z [INFO] [VectorManager] VectorManager initialized successfully
+2025-06-23T11:57:19.609Z [INFO] [VectorManager] Flush completed: uploaded 0 vectors
+2025-06-23T11:57:19.611Z [INFO] [VectorManager] Flush completed: uploaded 0 vectors
+2025-06-23T11:57:19.638Z [INFO] [VectorManager] Shutting down VectorManager...
+2025-06-23T11:57:19.639Z [INFO] [VectorManager] Waiting for ongoing operations to complete...
+2025-06-23T11:57:21.641Z [INFO] [VectorManager] Flush completed: uploaded 0 vectors
+2025-06-23T11:57:21.648Z [INFO] [VectorManager] EmbeddingClient cleanup completed (no explicit shutdown needed)
+2025-06-23T11:57:21.650Z [INFO] [VectorManager] PathEncryption cleanup completed (no explicit shutdown needed)
+2025-06-23T11:57:21.652Z [INFO] [VectorManager] VectorManager shutdown completed
+2025-06-23T11:57:21.656Z [INFO] [VectorManager] Shutting down VectorManager...
+2025-06-23T11:57:21.659Z [INFO] [VectorManager] Waiting for ongoing operations to complete...
+2025-06-23T11:57:23.671Z [INFO] [VectorManager] Flush completed: uploaded 0 vectors
+2025-06-23T11:57:23.677Z [INFO] [VectorManager] EmbeddingClient cleanup completed (no explicit shutdown needed)
+2025-06-23T11:57:23.678Z [INFO] [VectorManager] PathEncryption cleanup completed (no explicit shutdown needed)
+2025-06-23T11:57:23.678Z [INFO] [VectorManager] VectorManager shutdown completed
